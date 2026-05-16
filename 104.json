@@ -1,0 +1,106 @@
+{
+  "codigo": 104,
+  "titulo": "Evaluación de Tiempos Verbales",
+  "preguntas": [
+    {
+      "pregunta": "Choose the correct option: She ___ to the gym every morning.",
+      "opciones": ["go", "goes", "gone"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: I ___ a great movie yesterday.",
+      "opciones": ["saw", "see", "have seen"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Choose the correct option: They ___ in London since 2018.",
+      "opciones": ["lived", "live", "have lived"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Choose the correct option: ___ you ever eaten sushi?",
+      "opciones": ["Do", "Have", "Did"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: He ___ his keys last night.",
+      "opciones": ["loses", "has lost", "lost"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Choose the correct option: Water ___ at 100 degrees Celsius.",
+      "opciones": ["boils", "boil", "has boiled"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Choose the correct option: We ___ English for three years now.",
+      "opciones": ["study", "have studied", "studied"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: My sister ___ married two weeks ago.",
+      "opciones": ["got", "gets", "has got"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Choose the correct option: I ___ my homework yet. Can I do it later?",
+      "opciones": ["don't finish", "didn't finish", "haven't finished"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Choose the correct option: Where ___ you go for your last vacation?",
+      "opciones": ["do", "did", "have"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: He usually ___ coffee, but today he is drinking tea.",
+      "opciones": ["drinks", "drink", "drank"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Choose the correct option: Shakespeare ___ many famous plays.",
+      "opciones": ["writes", "has written", "wrote"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Choose the correct option: I am not hungry. I ___ already eaten.",
+      "opciones": ["have", "did", "am"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Choose the correct option: They ___ to Paris twice this year.",
+      "opciones": ["were", "have been", "go"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: What time ___ the train leave?",
+      "opciones": ["is", "does", "has"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: I ___ my phone, so I can't call my mom.",
+      "opciones": ["lost", "have lost", "lose"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: When I was a child, I ___ in a small village.",
+      "opciones": ["live", "lived", "have lived"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct option: My parents ___ just arrived at the airport.",
+      "opciones": ["have", "did", "are"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Choose the correct option: The sun ___ in the east.",
+      "opciones": ["rise", "rose", "rises"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Choose the correct option: Last year, we ___ to Italy for our summer holidays.",
+      "opciones": ["went", "have gone", "go"],
+      "correcta": 0
+    }
+  ]
+}
