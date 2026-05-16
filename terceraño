@@ -1,0 +1,64 @@
+{
+  "evaluacion": {
+    "id": "geo-3ano-u1",
+    "titulo": "Evaluación de Geografía - 3er Año",
+    "descripcion": "Unidad 1: Continentes, Recursos Naturales y Población",
+    "configuracion": {
+      "tiempo_limite_minutos": 40,
+      "permitir_reintento": false,
+      "mostrar_respuestas_al_final": true
+    },
+    "preguntas": [
+      {
+        "id": 1,
+        "tipo": "opcion_multiple",
+        "enunciado": "¿Cuál es el continente más extenso y poblado de la Tierra?",
+        "opciones": [
+          { "id": "a", "texto": "América" },
+          { "id": "b", "texto": "Asia" },
+          { "id": "c", "texto": "África" },
+          { "id": "d", "texto": "Europa" }
+        ],
+        "respuesta_correcta": "b",
+        "puntaje": 2.5
+      },
+      {
+        "id": 2,
+        "tipo": "verdadero_falso",
+        "enunciado": "Los recursos renovables son aquellos que no se agotan con su uso, como el petróleo y el gas natural.",
+        "opciones": [
+          { "id": "v", "texto": "Verdadero" },
+          { "id": "f", "texto": "Falso" }
+        ],
+        "respuesta_correcta": "f",
+        "puntaje": 2.5
+      },
+      {
+        "id": 3,
+        "tipo": "opcion_multiple",
+        "enunciado": "¿Qué línea imaginaria divide a la Tierra en los hemisferios Norte y Sur?",
+        "opciones": [
+          { "id": "a", "texto": "Meridiano de Greenwich" },
+          { "id": "b", "texto": "Trópico de Capricornio" },
+          { "id": "c", "texto": "Línea del Ecuador" },
+          { "id": "d", "texto": "Círculo Polar Ártico" }
+        ],
+        "respuesta_correcta": "c",
+        "puntaje": 2.5
+      },
+      {
+        "id": 4,
+        "tipo": "seleccion_multiple",
+        "enunciado": "De las siguientes opciones, selecciona cuáles son considerados recursos naturales renovables (puedes elegir más de una):",
+        "opciones": [
+          { "id": "a", "texto": "Energía solar" },
+          { "id": "b", "texto": "Carbón mineral" },
+          { "id": "c", "texto": "Energía eólica (viento)" },
+          { "id": "d", "texto": "Oro y Plata" }
+        ],
+        "respuesta_correcta": ["a", "c"],
+        "puntaje": 2.5
+      }
+    ]
+  }
+}
