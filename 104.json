@@ -1,0 +1,367 @@
+{
+  "exam_title": "English Placement Test - Pre-Intermediate (A2-B1)",
+  "total_questions": 60,
+  "level": "Pre-Intermediate",
+  "questions": [
+    {
+      "id": 121,
+      "question": "My friend...... at Harvard University.",
+      "options": ["study", "studys", "studies"],
+      "answer": "studies"
+    },
+    {
+      "id": 122,
+      "question": "What ...... they usually eat for breakfast?",
+      "options": ["do", "does", "is"],
+      "answer": "do"
+    },
+    {
+      "id": 123,
+      "question": "She ...... like salad, so give her French fries.",
+      "options": ["don't", "doesn't", "does"],
+      "answer": "doesn't"
+    },
+    {
+      "id": 124,
+      "question": "Sasha ...... for school.",
+      "options": ["is often late", "often is late", "late is often"],
+      "answer": "is often late"
+    },
+    {
+      "id": 125,
+      "question": "We ...... out for dinner.",
+      "options": ["go sometimes", "never go", "go once a week"],
+      "answer": "go once a week"
+    },
+    {
+      "id": 126,
+      "question": "'Are you busy at the moment?' 'No, I ...... a DVD.'",
+      "options": ["watch", "watching", "'m watching"],
+      "answer": "'m watching"
+    },
+    {
+      "id": 127,
+      "question": "We can't come now. We ...... some work.",
+      "options": ["do", "'re doing", "does"],
+      "answer": "'re doing"
+    },
+    {
+      "id": 128,
+      "question": "...... at night can be dangerous.",
+      "options": ["Drive", "You drive", "Driving"],
+      "answer": "Driving"
+    },
+    {
+      "id": 129,
+      "question": "Why are you worried about ...... on a plane?",
+      "options": ["go", "to go", "going"],
+      "answer": "going"
+    },
+    {
+      "id": 130,
+      "question": "I really like ...... golf at the weekends.",
+      "options": ["play", "playing", "to playing"],
+      "answer": "playing"
+    },
+    {
+      "id": 131,
+      "question": "She'd like ...... in the USA after she leaves university.",
+      "options": ["work", "to work", "working"],
+      "answer": "to work"
+    },
+    {
+      "id": 132,
+      "question": "He ...... switch off his mobile phone here.",
+      "options": ["must", "musts", "must to"],
+      "answer": "must"
+    },
+    {
+      "id": 133,
+      "question": "All employees ...... to wash their hands.",
+      "options": ["must", "have", "can't"],
+      "answer": "have"
+    },
+    {
+      "id": 134,
+      "question": "Quick! We ...... be late for the start of the film.",
+      "options": ["must", "mustn't", "don't have to"],
+      "answer": "mustn't"
+    },
+    {
+      "id": 135,
+      "question": "This laptop is ...... than that one.",
+      "options": ["expensive", "expensiver", "more expensive"],
+      "answer": "more expensive"
+    },
+    {
+      "id": 136,
+      "question": "Your English is ...... than mine.",
+      "options": ["good", "better", "best"],
+      "answer": "better"
+    },
+    {
+      "id": 137,
+      "question": "The tortoise lives the ...... of all animals.",
+      "options": ["long", "longer", "longest"],
+      "answer": "longest"
+    },
+    {
+      "id": 138,
+      "question": "Can you believe it? Ricardo is as ...... as Enrique.",
+      "options": ["old", "older", "oldest"],
+      "answer": "old"
+    },
+    {
+      "id": 139,
+      "question": "Sheila ...... from college with a degree in nursing in 2011.",
+      "options": ["qualify", "is qualifying", "qualified"],
+      "answer": "qualified"
+    },
+    {
+      "id": 140,
+      "question": "They ...... shopping yesterday - all the shops were closed.",
+      "options": ["did go", "not go", "didn't go"],
+      "answer": "didn't go"
+    },
+    {
+      "id": 141,
+      "question": "When ...... move to Japan?",
+      "options": ["you did", "did you", "were you"],
+      "answer": "did you"
+    },
+    {
+      "id": 142,
+      "question": "I ...... when they arrived.",
+      "options": ["sleeping", "'m sleeping", "was sleeping"],
+      "answer": "was sleeping"
+    },
+    {
+      "id": 143,
+      "question": "What ...... when they called?",
+      "options": ["were you doing", "you were doing", "are you doing"],
+      "answer": "were you doing"
+    },
+    {
+      "id": 144,
+      "question": "The butler was cleaning the bedrooms when he ...... a loud noise.",
+      "options": ["hear", "heard", "was hearing"],
+      "answer": "heard"
+    },
+    {
+      "id": 145,
+      "question": "Look in the cupboards. There are ...... tins in there.",
+      "options": ["much", "any", "a lot of"],
+      "answer": "a lot of"
+    },
+    {
+      "id": 146,
+      "question": "There ...... buses on Sundays. You should take the train.",
+      "options": ["aren't much", "aren't many", "are a little"],
+      "answer": "aren't many"
+    },
+    {
+      "id": 147,
+      "question": "How ...... milk is there in the fridge?",
+      "options": ["much", "many", "any"],
+      "answer": "much"
+    },
+    {
+      "id": 148,
+      "question": "I live in ...... USA but my parents live in Argentina.",
+      "options": ["the... the", "the... ---", "---... ---"],
+      "answer": "the... ---"
+    },
+    {
+      "id": 149,
+      "question": "I think Giorgio is going to study at ...... university in Italy.",
+      "options": ["an", "the", "a"],
+      "answer": "a"
+    },
+    {
+      "id": 150,
+      "question": "Matthew hopes ...... his studies at Oxford University.",
+      "options": ["continue", "to continue", "continuing"],
+      "answer": "to continue"
+    },
+    {
+      "id": 151,
+      "question": "We need to stop at the supermarket ...... some vegetables.",
+      "options": ["buy", "for buying", "to buy"],
+      "answer": "to buy"
+    },
+    {
+      "id": 152,
+      "question": "'Do you want to have lunch with me?' 'Sorry but I ...... my parents for lunch today.'",
+      "options": ["meet", "'m meeting", "'ll meet"],
+      "answer": "'m meeting"
+    },
+    {
+      "id": 153,
+      "question": "'What's your plan for your holiday?' 'Well, first, we ...... to Krakow.'",
+      "options": ["'re going to fly", "'ll fly", "'re fly"],
+      "answer": "'re going to fly"
+    },
+    {
+      "id": 154,
+      "question": "Go straight ahead and the restaurant is ...... of the swimming pool.",
+      "options": ["in front", "behind", "opposite"],
+      "answer": "in front"
+    },
+    {
+      "id": 155,
+      "question": "If you need the bathroom, go ...... these stairs.",
+      "options": ["down", "through", "on"],
+      "answer": "down"
+    },
+    {
+      "id": 156,
+      "question": "Good news! Tracey called. She ...... her final test.",
+      "options": ["'ve passed", "'s passed", "hasn't passed"],
+      "answer": "'s passed"
+    },
+    {
+      "id": 157,
+      "question": "The team hasn't won a match ...... 1995.",
+      "options": ["for", "since", "in"],
+      "answer": "since"
+    },
+    {
+      "id": 158,
+      "question": "He's the person ...... does the photocopying.",
+      "options": ["who", "which", "he"],
+      "answer": "who"
+    },
+    {
+      "id": 159,
+      "question": "This is the cable ...... connects the computer to the printer.",
+      "options": ["who", "which", "where"],
+      "answer": "which"
+    },
+    {
+      "id": 160,
+      "question": "When you ...... this button, it switches the TV on.",
+      "options": ["press", "will press", "pressed"],
+      "answer": "press"
+    },
+    {
+      "id": 161,
+      "question": "If you heat water, it ...... hot.",
+      "options": ["get", "gets", "is getting"],
+      "answer": "gets"
+    },
+    {
+      "id": 162,
+      "question": "If you drive faster, we ...... there by this evening.",
+      "options": ["'re arriving", "arrive", "'ll arrive"],
+      "answer": "'ll arrive"
+    },
+    {
+      "id": 163,
+      "question": "All our coffee ...... in Ethiopia.",
+      "options": ["grow", "is grown", "to grow"],
+      "answer": "is grown"
+    },
+    {
+      "id": 164,
+      "question": "The Japanese ...... really good-quality cars.",
+      "options": ["produce", "are produced", "is produced"],
+      "answer": "produce"
+    },
+    {
+      "id": 165,
+      "question": "A new type of plant ...... in the Amazon jungle last week.",
+      "options": ["discovered", "is discovered", "was discovered"],
+      "answer": "was discovered"
+    },
+    {
+      "id": 166,
+      "question": "The Lord of the Rings ...... by J.R.R. Tolkien between 1937 and 1949.",
+      "options": ["wrote", "writes", "was written"],
+      "answer": "was written"
+    },
+    {
+      "id": 167,
+      "question": "I took my cousins to the zoo last week. Guess what? They ...... seen a kangaroo before.",
+      "options": ["didn't", "haven't", "hadn't"],
+      "answer": "hadn't"
+    },
+    {
+      "id": 168,
+      "question": "When we got to Munich, our luggage .......",
+      "options": ["hasn't arriving", "hadn't arrived", "was arriving"],
+      "answer": "hadn't arrived"
+    },
+    {
+      "id": 169,
+      "question": "Who ...... the doctor?",
+      "options": ["called", "did call", "did you call"],
+      "answer": "called"
+    },
+    {
+      "id": 170,
+      "question": "When ...... the tickets?",
+      "options": ["you booked", "booked you", "did you book"],
+      "answer": "did you book"
+    },
+    {
+      "id": 171,
+      "question": "I was really ...... when Gill told me she was leaving.",
+      "options": ["surprised", "surprising", "surprise"],
+      "answer": "surprised"
+    },
+    {
+      "id": 172,
+      "question": "This part of the film is really ...... I've seen it six times.",
+      "options": ["excited", "exciting", "more excited"],
+      "answer": "exciting"
+    },
+    {
+      "id": 173,
+      "question": "My brothers ...... help in my father's shop.",
+      "options": ["used to", "use to", "use"],
+      "answer": "used to"
+    },
+    {
+      "id": 174,
+      "question": "...... see the film on TV last night?",
+      "options": ["Have you", "Did you use to", "Did you"],
+      "answer": "Did you"
+    },
+    {
+      "id": 175,
+      "question": "The family said they ...... to talk to the press.",
+      "options": ["not want", "didn't want", "wouldn't want"],
+      "answer": "didn't want"
+    },
+    {
+      "id": 176,
+      "question": "He told me he ...... to see the doctor.",
+      "options": ["go", "has gone", "had been"],
+      "answer": "had been"
+    },
+    {
+      "id": 177,
+      "question": "There are lots of messages for you today. ...... wants to speak to you.",
+      "options": ["Anybody", "Everybody", "Nobody"],
+      "answer": "Everybody"
+    },
+    {
+      "id": 178,
+      "question": "Is there ...... in the fridge?",
+      "options": ["anything", "everything", "nothing"],
+      "answer": "anything"
+    },
+    {
+      "id": 179,
+      "question": "If ...... a house in the country, ...... a dog.",
+      "options": ["I'd have... I'd get", "I had... I'd get", "I'd have... I got"],
+      "answer": "I had... I'd get"
+    },
+    {
+      "id": 180,
+      "question": "Would you walk to work if the weather ...... nice?",
+      "options": ["would be", "will be", "was"],
+      "answer": "was"
+    }
+  ]
+}
