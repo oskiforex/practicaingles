@@ -1,0 +1,302 @@
+[
+  {
+    "pregunta": "He's ... doctor.",
+    "opciones": ["a", "an", "---"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Pablo is ... artist.",
+    "opciones": ["a", "an", "---"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "I ...... from Italy.",
+    "opciones": ["am", "is", "are"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "She ...... married.",
+    "opciones": ["'m", "'s", "'re"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "This picture is nice. It ...... from Brazil.",
+    "opciones": ["'m", "'s", "'re"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "......'ve got a passport.",
+    "opciones": ["I", "He", "My"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Have you got ...... camera?",
+    "opciones": ["you", "you're", "your"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "They ...... eighteen.",
+    "opciones": ["am", "is", "'re"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "We ...... single.",
+    "opciones": ["'m", "'s", "'re"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "I ...... thirty. I'm thirty-one.",
+    "opciones": ["am not", "isn't", "arent"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "They .... from Chile. They're from Argentina.",
+    "opciones": ["am not", "isn't", "aren't"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "'Is Andrew British?' 'No, he .......'",
+    "opciones": ["aren't", "isn't", "is"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... the Eiffel Tower in Paris?",
+    "opciones": ["Am", "Is", "Are"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "'Are you Polish?' 'Yes, I .......'",
+    "opciones": ["am", "is", "are"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The three brothers are ......",
+    "opciones": ["engineer", "engineers", "an engineers"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "That's...... teacher.",
+    "opciones": ["Lisas", "Lisa's", "Lisas'"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Who is David? ...... my father.",
+    "opciones": ["His", "He", "He's"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "She's my sister. .... name is Ana.",
+    "opciones": ["His", "Her", "Its"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... house is in the city centre.",
+    "opciones": ["Are", "Our", "We"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Your wallet is ...... to the bag.",
+    "opciones": ["in", "on", "next"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Is ...... your pen?",
+    "opciones": ["this", "that's", "these"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "...... my bags?",
+    "opciones": ["Where's", "Where are", "Are where"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "What...... the capital of Australia?",
+    "opciones": ["is", "do", "does"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Hilary can't sing but she .... play the guitar.",
+    "opciones": ["can", "cans", "does can"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Can you ...... French?",
+    "opciones": ["speaks", "speak", "to speak"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "'Can you run fast?' 'No, I .......'",
+    "opciones": ["can't", "don't", "can"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "They ...... a break at twelve o'clock.",
+    "opciones": ["has", "have", "got"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "They are ......",
+    "opciones": ["fasts cars", "cars fast", "fast cars"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "My new laptop is ...... great.",
+    "opciones": ["very", "really", "fantastic"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "I ...... like pizza.",
+    "opciones": ["no", "don't", "doesn't"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... sushi?",
+    "opciones": ["You like", "Does you like", "Do you like"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "He ...... the new girl in our class.",
+    "opciones": ["like", "likes", "don't like"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "He likes her but she doesn't like .......",
+    "opciones": ["he", "his", "him"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Your parents are great. I like ......",
+    "opciones": ["him", "you", "them"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "We ...... in New York.",
+    "opciones": ["live", "lives", "are live"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "...... to college?",
+    "opciones": ["Are they go", "They go", "Do they go"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Who ...... you live with?",
+    "opciones": ["are", "do", "does"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "She ...... work at five.",
+    "opciones": ["finish", "finishs", "finishes"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Jack ...... geography at university.",
+    "opciones": ["study", "studies", "studys"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The party starts ...... nine o'clock.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "They ...... TV.",
+    "opciones": ["never watch", "watch never", "never watches"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Does your friend ...... horror films?",
+    "opciones": ["like", "likes", "liking"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "I ...... on Saturdays.",
+    "opciones": ["work always", "always work", "work never"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... often do you go to the cinema?",
+    "opciones": ["Why", "When", "How"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "There ...... two sofas in the room.",
+    "opciones": ["am", "is", "are"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "No, there ...... a chair in the bedroom.",
+    "opciones": ["is", "isn't", "aren't"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... there a café near here?",
+    "opciones": ["Are", "Is", "Am"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Come in. ...... a seat.",
+    "opciones": ["Take", "Takes", "Take you"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "I ...... very busy at work last week.",
+    "opciones": ["was", "were", "am"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "They ...... at home yesterday.",
+    "opciones": ["wasn't", "weren't", "don't were"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... Sam and Matt at the party?",
+    "opciones": ["Wasn't", "Was", "Were"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "At the restaurant, Norman ate local food but I ...... a burger.",
+    "opciones": ["eat", "have", "had"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "The students ...... this course last May.",
+    "opciones": ["start", "started", "are starting"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "I ...... see her at the lesson. Is she OK?",
+    "opciones": ["don't", "doesn't", "didn't"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Did you ...... school at sixteen or eighteen?",
+    "opciones": ["leave", "leaved", "left"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "'When ......?' 'She arrived at nine.'",
+    "opciones": ["she arrive", "she arrived", "did she arrive"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Right now, I ...... cooking dinner for some friends.",
+    "opciones": ["'m", "'s", "'re"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "She ...... a book - she's reading a magazine.",
+    "opciones": ["not reading", "don't read", "isn't reading"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "...... you ...... chess?",
+    "opciones": ["Are...play", "Do...playing", "Are...playing"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Anne and Andrew ...... the new James Bond film this evening.",
+    "opciones": ["are seeing", "see", "is seeing"],
+    "correcta": 0
+  }
+]
