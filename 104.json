@@ -1,0 +1,16 @@
+{
+  "codigo": 101,
+  "titulo": "Prueba Inicial",
+  "preguntas": [
+    {
+      "pregunta": "What is the capital of England?",
+      "opciones": ["Paris", "London", "Madrid", "Rome"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Choose the correct verb: He ___ football.",
+      "opciones": ["play", "playing", "plays", "played"],
+      "correcta": 2
+    }
+  ]
+}
