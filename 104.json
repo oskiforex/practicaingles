@@ -174,7 +174,7 @@
     {
       "id": 149,
       "question": "I think Giorgio is going to study at ...... university in Italy.",
-      "options": ["an", "the", "---"],
+      "options": ["an", "the", "a"],
       "answer": "a"
     },
     {
