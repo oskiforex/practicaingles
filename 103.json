@@ -1,0 +1,367 @@
+{
+  "exam_title": "English Placement Test - Elementary (A2)",
+  "total_questions": 60,
+  "level": "Elementary",
+  "questions": [
+    {
+      "id": 61,
+      "question": "You ...... a student.",
+      "options": ["am", "is", "are"],
+      "answer": "are"
+    },
+    {
+      "id": 62,
+      "question": "He ...... from Canada.",
+      "options": ["'m", "'s", "'re"],
+      "answer": "'s"
+    },
+    {
+      "id": 63,
+      "question": "We ...... from Brazil. We're from Peru.",
+      "options": ["am not", "isn't", "aren't"],
+      "answer": "aren't"
+    },
+    {
+      "id": 64,
+      "question": "He's my brother. ..... name is Martin.",
+      "options": ["His", "Her", "Its"],
+      "answer": "His"
+    },
+    {
+      "id": 65,
+      "question": "My mother is from Argentina but...... parents are from Spain.",
+      "options": ["his", "her", "their"],
+      "answer": "their"
+    },
+    {
+      "id": 66,
+      "question": "...... brother is Tomas.",
+      "options": ["Sara has", "Sara's", "Sara is"],
+      "answer": "Sara's"
+    },
+    {
+      "id": 67,
+      "question": "I have two ......",
+      "options": ["desk", "desks", "deskes"],
+      "answer": "desks"
+    },
+    {
+      "id": 68,
+      "question": "His ...... are Marc, Saskia and Alina.",
+      "options": ["child", "child's", "children"],
+      "answer": "children"
+    },
+    {
+      "id": 69,
+      "question": "...... coat is Peter's.",
+      "options": ["That", "These", "Those"],
+      "answer": "That"
+    },
+    {
+      "id": 70,
+      "question": "...... trainers are new.",
+      "options": ["This", "That", "These"],
+      "answer": "These"
+    },
+    {
+      "id": 71,
+      "question": "There ...... two chairs in my living room.",
+      "options": ["am", "is", "are"],
+      "answer": "are"
+    },
+    {
+      "id": 72,
+      "question": "There ...... any money in my wallet.",
+      "options": ["am not", "isn't", "aren't"],
+      "answer": "isn't"
+    },
+    {
+      "id": 73,
+      "question": "Are the books ...... the chair?",
+      "options": ["in front", "on", "next"],
+      "answer": "on"
+    },
+    {
+      "id": 74,
+      "question": "The sofa is ...... the two windows.",
+      "options": ["in", "between", "on"],
+      "answer": "between"
+    },
+    {
+      "id": 75,
+      "question": "I ...... in the city centre.",
+      "options": ["work", "works", "are work"],
+      "answer": "work"
+    },
+    {
+      "id": 76,
+      "question": "They ...... to work by car.",
+      "options": ["aren't go", "don't go", "doesn't go"],
+      "answer": "don't go"
+    },
+    {
+      "id": 77,
+      "question": "She ...... shopping.",
+      "options": ["like", "likes", "don't like"],
+      "answer": "likes"
+    },
+    {
+      "id": 78,
+      "question": "He ...... Russian.",
+      "options": ["not teach", "don't teach", "doesn't teach"],
+      "answer": "doesn't teach"
+    },
+    {
+      "id": 79,
+      "question": "Where ...... live?",
+      "options": ["is she", "do she", "does she"],
+      "answer": "does she"
+    },
+    {
+      "id": 80,
+      "question": "Marina doesn't like ......",
+      "options": ["swim", "swims", "swimming"],
+      "answer": "swimming"
+    },
+    {
+      "id": 81,
+      "question": "I ...... early for school.",
+      "options": ["always am", "always", "'m always"],
+      "answer": "'m always"
+    },
+    {
+      "id": 82,
+      "question": "Rich and Jenny ...... each other on Saturdays.",
+      "options": ["sometimes", "sometimes see", "see sometimes"],
+      "answer": "sometimes see"
+    },
+    {
+      "id": 83,
+      "question": "She ...... play tennis very well.",
+      "options": ["can", "cans", "can to"],
+      "answer": "can"
+    },
+    {
+      "id": 84,
+      "question": "...... play a musical instrument?",
+      "options": ["Does he can", "Can he", "Do he can"],
+      "answer": "Can he"
+    },
+    {
+      "id": 85,
+      "question": "There's ...... apple in my bag.",
+      "options": ["a", "an", "some"],
+      "answer": "an"
+    },
+    {
+      "id": 86,
+      "question": "There are ...... biscuits in the cupboard.",
+      "options": ["a", "an", "some"],
+      "answer": "some"
+    },
+    {
+      "id": 87,
+      "question": "Sorry, there isn't ...... milk.",
+      "options": ["a", "some", "any"],
+      "answer": "any"
+    },
+    {
+      "id": 88,
+      "question": "I don't eat ...... bananas.",
+      "options": ["many", "much", "a lot"],
+      "answer": "many"
+    },
+    {
+      "id": 89,
+      "question": "How ...... bread have we got?",
+      "options": ["many", "much", "any"],
+      "answer": "much"
+    },
+    {
+      "id": 90,
+      "question": "Our anniversary ...... on 25th April.",
+      "options": ["was", "were", "wern't"],
+      "answer": "was"
+    },
+    {
+      "id": 91,
+      "question": "...... your parents at the party?",
+      "options": ["Was", "Were", "Wasn't"],
+      "answer": "Were"
+    },
+    {
+      "id": 92,
+      "question": "I ...... university in 2012.",
+      "options": ["start", "started", "am starting"],
+      "answer": "started"
+    },
+    {
+      "id": 93,
+      "question": "The team ...... to the hotel after the game.",
+      "options": ["go", "went", "gone"],
+      "answer": "went"
+    },
+    {
+      "id": 94,
+      "question": "He ...... in an office, he worked in a bank.",
+      "options": ["not work", "didn't worked", "didn't work"],
+      "answer": "didn't work"
+    },
+    {
+      "id": 95,
+      "question": "Did they ...... to China last year?",
+      "options": ["travel", "travelled", "travelling"],
+      "answer": "travel"
+    },
+    {
+      "id": 96,
+      "question": "It's cold here. The weather is ...... in my country.",
+      "options": ["hot", "hoter", "hotter"],
+      "answer": "hotter"
+    },
+    {
+      "id": 97,
+      "question": "Cheetahs can run ...... than crocodiles.",
+      "options": ["fast", "faster", "fastest"],
+      "answer": "faster"
+    },
+    {
+      "id": 98,
+      "question": "The blue whale is ...... animal in the world.",
+      "options": ["the heaviest", "heaviest", "the heavier"],
+      "answer": "the heaviest"
+    },
+    {
+      "id": 99,
+      "question": "He ...... got brown eyes.",
+      "options": ["'ve", "'s", "has"],
+      "answer": "'s"
+    },
+    {
+      "id": 100,
+      "question": "They ...... got any children.",
+      "options": ["hasn't got", "aren't", "haven't got"],
+      "answer": "haven't got"
+    },
+    {
+      "id": 101,
+      "question": "At the moment, they ...... friends.",
+      "options": ["visit", "'s visiting", "'re visiting"],
+      "answer": "'re visiting"
+    },
+    {
+      "id": 102,
+      "question": "I ...... TV now.",
+      "options": ["'m watch", "watching", "'m watching"],
+      "answer": "'m watching"
+    },
+    {
+      "id": 103,
+      "question": "What ...... he ...... today?",
+      "options": ["is...doing", "are...doing", "is...do"],
+      "answer": "is...doing"
+    },
+    {
+      "id": 104,
+      "question": "My son and his friends are ...... travel around New Zealand.",
+      "options": ["go to", "going", "going to"],
+      "answer": "going to"
+    },
+    {
+      "id": 105,
+      "question": "...... eat out tonight?",
+      "options": ["Do you", "Are you", "Are you going to"],
+      "answer": "Are you going to"
+    },
+    {
+      "id": 106,
+      "question": "Lydia is visiting Nepal ...... Mount Everest.",
+      "options": ["see", "to see", "for see"],
+      "answer": "to see"
+    },
+    {
+      "id": 107,
+      "question": "I'm calling you...... arrange a meeting.",
+      "options": ["for", "so", "to"],
+      "answer": "to"
+    },
+    {
+      "id": 108,
+      "question": "They ...... to the cinema this evening.",
+      "options": ["'re going", "go", "is going"],
+      "answer": "'re going"
+    },
+    {
+      "id": 109,
+      "question": "I have an arrangement with Bill. We ...... at six.",
+      "options": ["'re meet", "'re meeting", "'re going meet"],
+      "answer": "'re meeting"
+    },
+    {
+      "id": 110,
+      "question": "I ...... tickets so we can go to the concert.",
+      "options": ["'ve booked", "book", "'s booked"],
+      "answer": "'ve booked"
+    },
+    {
+      "id": 111,
+      "question": "Marie ...... the new film at the cinema.",
+      "options": ["hasn't saw", "hasn't see", "hasn't seen"],
+      "answer": "hasn't seen"
+    },
+    {
+      "id": 112,
+      "question": "My family ...... to Hawaii last month.",
+      "options": ["been", "'s gone", "went"],
+      "answer": "went"
+    },
+    {
+      "id": 113,
+      "question": "...... the programme about whales on TV last night?",
+      "options": ["Have you seen", "Have you ever seen", "Did you see"],
+      "answer": "Did you see"
+    },
+    {
+      "id": 114,
+      "question": "The police ...... stop those cars.",
+      "options": ["should", "shoulds", "should to"],
+      "answer": "should"
+    },
+    {
+      "id": 115,
+      "question": "You ...... wear a uniform. You can wear your normal clothes.",
+      "options": ["have to", "don't have to", "don't have"],
+      "answer": "don't have to"
+    },
+    {
+      "id": 116,
+      "question": "There's ...... at the door. Can you see who it is?",
+      "options": ["somebody", "anybody", "everybody"],
+      "answer": "somebody"
+    },
+    {
+      "id": 117,
+      "question": "Is there ...... for me in the post today?",
+      "options": ["anybody", "nothing", "anything"],
+      "answer": "anything"
+    },
+    {
+      "id": 118,
+      "question": "I think we ...... have cars that fly in the future.",
+      "options": ["will", "wills", "will to"],
+      "answer": "will"
+    },
+    {
+      "id": 119,
+      "question": "...... United States of America has 50 states.",
+      "options": ["A", "The", "---"],
+      "answer": "The"
+    },
+    {
+      "id": 120,
+      "question": "I'd love to climb ...... Mount Everest.",
+      "options": ["a", "the", "---"],
+      "answer": "---"
+    }
+  ]
+}
