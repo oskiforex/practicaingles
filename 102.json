@@ -1,0 +1,368 @@
+{
+  "exam_title": "English Grammar - All Passive Voice Tenses",
+  "total_questions": 60,
+  "level": "Mixed (Elementary to Advanced)",
+  "topic": "Passive Voice",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The office ...... every evening by the cleaning staff.",
+      "options": ["cleans", "is cleaned", "is cleaning"],
+      "answer": "is cleaned"
+    },
+    {
+      "id": 2,
+      "question": "Thousands of emails ...... around the world every second.",
+      "options": ["are sent", "are send", "sent"],
+      "answer": "are sent"
+    },
+    {
+      "id": 3,
+      "question": "This book ...... by millions of people globally.",
+      "options": ["is readed", "is read", "reads"],
+      "answer": "is read"
+    },
+    {
+      "id": 4,
+      "question": "Grapes ...... in this region to make wine.",
+      "options": ["are grown", "grow", "are grew"],
+      "answer": "are grown"
+    },
+    {
+      "id": 5,
+      "question": "Spanish ...... as a first language in many countries.",
+      "options": ["is spoken", "speaks", "is spoke"],
+      "answer": "is spoken"
+    },
+    {
+      "id": 6,
+      "question": "The exhibition ...... by the mayor last night.",
+      "options": ["was opened", "opened", "was open"],
+      "answer": "was opened"
+    },
+    {
+      "id": 7,
+      "question": "The letters ...... two days ago.",
+      "options": ["were posted", "was posted", "posted"],
+      "answer": "were posted"
+    },
+    {
+      "id": 8,
+      "question": "America ...... by Columbus in 1492.",
+      "options": ["was discovered", "discovered", "is discovered"],
+      "answer": "was discovered"
+    },
+    {
+      "id": 9,
+      "question": "The window ...... during the storm yesterday.",
+      "options": ["broke", "was broken", "was broke"],
+      "answer": "was broken"
+    },
+    {
+      "id": 10,
+      "question": "Our cars ...... in Germany last year.",
+      "options": ["were manufactured", "manufactured", "was manufactured"],
+      "answer": "were manufactured"
+    },
+    {
+      "id": 11,
+      "question": "Don't enter that room; it ...... right now.",
+      "options": ["is painted", "is being painted", "paints"],
+      "answer": "is being painted"
+    },
+    {
+      "id": 12,
+      "question": "A new hospital ...... in the city center this month.",
+      "options": ["is being built", "is building", "is built"],
+      "answer": "is being built"
+    },
+    {
+      "id": 13,
+      "question": "The match ...... live on TV at this moment.",
+      "options": ["is broadcasting", "is broadcast", "is being broadcast"],
+      "answer": "is being broadcast"
+    },
+    {
+      "id": 14,
+      "question": "Account details ...... by our team as we speak.",
+      "options": ["are verified", "are being verified", "are verifying"],
+      "answer": "are being verified"
+    },
+    {
+      "id": 15,
+      "question": "The files ...... to the server right now.",
+      "options": ["are uploading", "are being uploaded", "are uploaded"],
+      "answer": "are being uploaded"
+    },
+    {
+      "id": 16,
+      "question": "When I arrived, the dinner ...... .",
+      "options": ["was being prepared", "was preparing", "prepared"],
+      "answer": "was being prepared"
+    },
+    {
+      "id": 17,
+      "question": "The patients ...... when the power cut occurred.",
+      "options": ["were examined", "were being examined", "were examining"],
+      "answer": "were being examined"
+    },
+    {
+      "id": 18,
+      "question": "I realized my car ...... by a stranger.",
+      "options": ["was followed", "was being followed", "followed"],
+      "answer": "was being followed"
+    },
+    {
+      "id": 19,
+      "question": "The missing details ...... when the meeting ended.",
+      "options": ["were still being discussed", "were still discussing", "still discussed"],
+      "answer": "were still being discussed"
+    },
+    {
+      "id": 20,
+      "question": "The house ...... when the earthquake struck.",
+      "options": ["was renovating", "was renovated", "was being renovated"],
+      "answer": "was being renovated"
+    },
+    {
+      "id": 21,
+      "question": "Great news! The contract ...... by the CEO.",
+      "options": ["has been signed", "has signed", "was signed"],
+      "answer": "has been signed"
+    },
+    {
+      "id": 22,
+      "question": "All the tickets for the concert ...... already.",
+      "options": ["have sold", "have been sold", "were sold"],
+      "answer": "have been sold"
+    },
+    {
+      "id": 23,
+      "question": "The problem ...... yet.",
+      "options": ["hasn't been solved", "hasn't solved", "isn't solve"],
+      "answer": "hasn't been solved"
+    },
+    {
+      "id": 24,
+      "question": "Several new features ...... to the app recently.",
+      "options": ["have added", "have been added", "added"],
+      "answer": "have been added"
+    },
+    {
+      "id": 25,
+      "question": "...... your room ...... yet?",
+      "options": ["Has...been cleaned", "Have...cleaned", "Is...cleaned"],
+      "answer": "Has...been cleaned"
+    },
+    {
+      "id": 26,
+      "question": "The thief escaped because the gate ...... open.",
+      "options": ["had left", "had been left", "was left"],
+      "answer": "had been left"
+    },
+    {
+      "id": 27,
+      "question": "The report ...... before the deadline passed.",
+      "options": ["had completed", "had been completed", "was complete"],
+      "answer": "had been completed"
+    },
+    {
+      "id": 28,
+      "question": "They discovered that the jewels ...... .",
+      "options": ["had been stolen", "had stolen", "were steal"],
+      "answer": "had been stolen"
+    },
+    {
+      "id": 29,
+      "question": "The fire was put out after the building ...... severely.",
+      "options": ["had damaged", "had been damaged", "was damaging"],
+      "answer": "had been damaged"
+    },
+    {
+      "id": 30,
+      "question": "He failed because the instructions ...... properly.",
+      "options": ["hadn't been explained", "hadn't explained", "weren't explain"],
+      "answer": "hadn't been explained"
+    },
+    {
+      "id": 31,
+      "question": "The results ...... tomorrow morning.",
+      "options": ["will be announced", "will announce", "are announced"],
+      "answer": "will be announced"
+    },
+    {
+      "id": 32,
+      "question": "The packages ...... to your address next week.",
+      "options": ["will send", "will be sent", "are going to send"],
+      "answer": "will be sent"
+    },
+    {
+      "id": 33,
+      "question": "Automation means many jobs ...... by robots in the future.",
+      "options": ["will be replaced", "will replace", "are replaced"],
+      "answer": "will be replaced"
+    },
+    {
+      "id": 34,
+      "question": "Don't worry, the project ...... on time.",
+      "options": ["will finish", "will be finished", "is finishing"],
+      "answer": "will be finished"
+    },
+    {
+      "id": 35,
+      "question": "The winners ...... by a panel of experts.",
+      "options": ["will choose", "will be chosen", "will be choosed"],
+      "answer": "will be chosen"
+    },
+    {
+      "id": 36,
+      "question": "A new law ...... to protect the environment next month.",
+      "options": ["is going to introduce", "is going to be introduced", "will introduce"],
+      "answer": "is going to be introduced"
+    },
+    {
+      "id": 37,
+      "question": "Be careful! You ...... if you jump over that fence.",
+      "options": ["are going to be caught", "are going to catch", "will catch"],
+      "answer": "are going to be caught"
+    },
+    {
+      "id": 38,
+      "question": "The old building ...... down next Tuesday.",
+      "options": ["is going to be torn", "is going to tear", "will tear"],
+      "answer": "is going to be torn"
+    },
+    {
+      "id": 39,
+      "question": "The conference ...... in Paris this year.",
+      "options": ["is going to be held", "is going to hold", "holds"],
+      "answer": "is going to be held"
+    },
+    {
+      "id": 40,
+      "question": "These files ...... by the IT department tomorrow afternoon.",
+      "options": ["are going to be checked", "are going to check", "will check"],
+      "answer": "are going to be checked"
+    },
+    {
+      "id": 41,
+      "question": "This form ...... in block capitals.",
+      "options": ["must fill", "must be filled", "must been filled"],
+      "answer": "must be filled"
+    },
+    {
+      "id": 42,
+      "question": "The document ...... before Friday.",
+      "options": ["should be submitted", "should submit", "should being submitted"],
+      "answer": "should be submitted"
+    },
+    {
+      "id": 43,
+      "question": "Luggage ...... unattended at the airport.",
+      "options": ["must not leave", "must not be left", "must not being left"],
+      "answer": "must not be left"
+    },
+    {
+      "id": 44,
+      "question": "The rules ...... by all participants.",
+      "options": ["have to be followed", "have to follow", "must to be followed"],
+      "answer": "have to be followed"
+    },
+    {
+      "id": 45,
+      "question": "This problem ...... easily if you listen.",
+      "options": ["can be solved", "can solve", "can been solved"],
+      "answer": "can be solved"
+    },
+    {
+      "id": 46,
+      "question": "The meeting is secret; it ...... to anyone.",
+      "options": ["ought not to be mentioned", "ought not mention", "shouldn't mention"],
+      "answer": "ought not to be mentioned"
+    },
+    {
+      "id": 47,
+      "question": "Children ...... from dangerous situations.",
+      "options": ["need to be protected", "need to protect", "need protect"],
+      "answer": "need to be protected"
+    },
+    {
+      "id": 48,
+      "question": "The package ...... by express delivery.",
+      "options": ["may be sent", "may send", "may been sent"],
+      "answer": "may be sent"
+    },
+    {
+      "id": 49,
+      "question": "Your password ...... to ensure safety.",
+      "options": ["ought to be changed", "ought to change", "should change"],
+      "answer": "ought to be changed"
+    },
+    {
+      "id": 50,
+      "question": "Nothing ...... without the manager's approval.",
+      "options": ["can be done", "can do", "can done"],
+      "answer": "can be done"
+    },
+    {
+      "id": 51,
+      "question": "The message ...... hours ago; why hasn't he replied?",
+      "options": ["must have been delivered", "must have delivered", "must be delivered"],
+      "answer": "must have been delivered"
+    },
+    {
+      "id": 52,
+      "question": "He ...... by the police, but I'm not entirely sure.",
+      "options": ["might have been arrested", "might have arrested", "might be arrested"],
+      "answer": "might have been arrested"
+    },
+    {
+      "id": 53,
+      "question": "The fire ...... by an electrical fault.",
+      "options": ["could have been caused", "could have caused", "could be caused"],
+      "answer": "could have been caused"
+    },
+    {
+      "id": 54,
+      "question": "The task ...... much earlier. You wasted too much time.",
+      "options": ["should have been completed", "should have completed", "should be completed"],
+      "answer": "should have been completed"
+    },
+    {
+      "id": 55,
+      "question": "The window ...... by the wind; there's no one around.",
+      "options": ["must have been broken", "must have broken", "was broken"],
+      "answer": "must have been broken"
+    },
+    {
+      "id": 56,
+      "question": "He hates ...... what to do.",
+      "options": ["being told", "to tell", "been told"],
+      "answer": "being told"
+    },
+    {
+      "id": 57,
+      "question": "I would like ...... to the VIP lounge.",
+      "options": ["to be invited", "being invited", "to invite"],
+      "answer": "to be invited"
+    },
+    {
+      "id": 58,
+      "question": "The actor avoided ...... by the paparazzi.",
+      "options": ["being photographed", "photographing", "to be photographed"],
+      "answer": "being photographed"
+    },
+    {
+      "id": 59,
+      "question": "She remembers ...... to the zoo when she was a child.",
+      "options": ["being taken", "taking", "to be taken"],
+      "answer": "being taken"
+    },
+    {
+      "id": 60,
+      "question": "The company expects the new strategy ...... by next month.",
+      "options": ["to be implemented", "being implemented", "to implement"],
+      "answer": "to be implemented"
+    }
+  ]
+}
