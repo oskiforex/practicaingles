@@ -1,0 +1,727 @@
+{
+  "exam_title": "English Placement Test - Upper-Intermediate & Advanced (B2-C1)",
+  "total_questions": 120,
+  "levels": ["Upper-Intermediate", "Advanced"],
+  "questions": [
+    {
+      "id": 241,
+      "question": "We ...... for three hours when the taxi finally arrived.",
+      "options": ["waited", "had been waiting", "were waiting"],
+      "answer": "had been waiting"
+    },
+    {
+      "id": 242,
+      "question": "By the time you graduate next year, you ...... thousands of hours studying.",
+      "options": ["will spend", "will have spent", "are spending"],
+      "answer": "will have spent"
+    },
+    {
+      "id": 243,
+      "question": "I ...... to her several times before she actually replied.",
+      "options": ["had written", "wrote", "have written"],
+      "answer": "had written"
+    },
+    {
+      "id": 244,
+      "question": "The police questioned the man who ...... suspiciously near the bank.",
+      "options": ["has been acting", "had been acting", "was acted"],
+      "answer": "had been acting"
+    },
+    {
+      "id": 245,
+      "question": "Our company ...... by a much larger multinational last month.",
+      "options": ["took over", "was taken over", "had taken over"],
+      "answer": "was taken over"
+    },
+    {
+      "id": 246,
+      "question": "The software ...... updated regularly to ensure security.",
+      "options": ["must be", "must to be", "needs be"],
+      "answer": "must be"
+    },
+    {
+      "id": 247,
+      "question": "A new hospital ...... in the town center at the moment.",
+      "options": ["is building", "is being built", "has been built"],
+      "answer": "is being built"
+    },
+    {
+      "id": 248,
+      "question": "He denied ...... the money from the safe.",
+      "options": ["to steal", "stealing", "steal"],
+      "answer": "stealing"
+    },
+    {
+      "id": 249,
+      "question": "They managed ...... the summit despite the terrible weather.",
+      "options": ["reaching", "to reach", "reach"],
+      "answer": "to reach"
+    },
+    {
+      "id": 250,
+      "question": "I completely forgot ...... the front door when I left.",
+      "options": ["locking", "to lock", "lock"],
+      "answer": "to lock"
+    },
+    {
+      "id": 251,
+      "question": "If you ...... me earlier, I could have helped you.",
+      "options": ["told", "had told", "would tell"],
+      "answer": "had told"
+    },
+    {
+      "id": 252,
+      "question": "I would buy that house if I ...... the money.",
+      "options": ["have", "had", "would have"],
+      "answer": "had"
+    },
+    {
+      "id": 253,
+      "question": "If she ...... so hard, she wouldn't be so successful now.",
+      "options": ["didn't work", "hadn't worked", "doesn't work"],
+      "answer": "didn't work"
+    },
+    {
+      "id": 254,
+      "question": "The teacher suggested ...... the exam format before Friday.",
+      "options": ["to review", "reviewing", "we reviewed"],
+      "answer": "reviewing"
+    },
+    {
+      "id": 255,
+      "question": "He accused me of ...... his computer without asking.",
+      "options": ["using", "to use", "have used"],
+      "answer": "using"
+    },
+    {
+      "id": 256,
+      "question": "She apologized ...... late for the boardroom meeting.",
+      "options": ["for being", "to be", "by being"],
+      "answer": "for being"
+    },
+    {
+      "id": 257,
+      "question": "The man ...... wallet was stolen went straight to the police station.",
+      "options": ["whose", "whom", "which"],
+      "answer": "whose"
+    },
+    {
+      "id": 258,
+      "question": "The city ...... I grew up is completely different now.",
+      "options": ["which", "where", "that"],
+      "answer": "where"
+    },
+    {
+      "id": 259,
+      "question": "This is the best movie ...... I have ever seen.",
+      "options": ["what", "that", "who"],
+      "answer": "that"
+    },
+    {
+      "id": 260,
+      "question": "You haven't finished your project yet, ...... ?",
+      "options": ["haven't you", "have you", "did you"],
+      "answer": "have you"
+    },
+    {
+      "id": 261,
+      "question": "There are too many cars on the road, ...... ?",
+      "options": ["isn't it", "aren't they", "aren't there"],
+      "answer": "aren't there"
+    },
+    {
+      "id": 262,
+      "question": "She's been working here a long time, ...... ?",
+      "options": ["isn't she", "hasn't she", "wasn't she"],
+      "answer": "hasn't she"
+    },
+    {
+      "id": 263,
+      "question": "I wish I ...... so much money yesterday.",
+      "options": ["didn't spend", "hadn't spent", "wouldn't spend"],
+      "answer": "hadn't spent"
+    },
+    {
+      "id": 264,
+      "question": "If only it ...... raining so we could go out for a walk.",
+      "options": ["stops", "would stop", "had stopped"],
+      "answer": "would stop"
+    },
+    {
+      "id": 265,
+      "question": "I'd rather you ...... use your mobile phone during dinner.",
+      "options": ["don't", "didn't", "won't"],
+      "answer": "didn't"
+    },
+    {
+      "id": 266,
+      "question": "The package must ...... delivered yesterday; I see it on the desk.",
+      "options": ["be", "have been", "been"],
+      "answer": "have been"
+    },
+    {
+      "id": 267,
+      "question": "She ...... have known about the party because no one told her.",
+      "options": ["can't", "mustn't", "shouldn't"],
+      "answer": "can't"
+    },
+    {
+      "id": 268,
+      "question": "You ...... have brought an umbrella. It's not going to rain.",
+      "options": ["needn't", "mustn't", "couldn't"],
+      "answer": "needn't"
+    },
+    {
+      "id": 269,
+      "question": "Despite ...... a cold, he went to work.",
+      "options": ["he had", "having", "of having"],
+      "answer": "having"
+    },
+    {
+      "id": 270,
+      "question": "Although ...... was very late, they decided to call him.",
+      "options": ["it", "there", "he"],
+      "answer": "it"
+    },
+    {
+      "id": 271,
+      "question": "He closed the windows ...... prevent the rain from getting in.",
+      "options": ["for", "so that", "in order to"],
+      "answer": "in order to"
+    },
+    {
+      "id": 272,
+      "question": "They stayed at home ...... the heavy snowstorm.",
+      "options": ["because", "due to", "as"],
+      "answer": "due to"
+    },
+    {
+      "id": 273,
+      "question": "No sooner ...... home than the storm started.",
+      "options": ["had I arrived", "I arrived", "did I arrive"],
+      "answer": "had I arrived"
+    },
+    {
+      "id": 274,
+      "question": "Under no circumstances ...... touch those wires.",
+      "options": ["you should", "should you", "you must"],
+      "answer": "should you"
+    },
+    {
+      "id": 275,
+      "question": "Seldom ...... such a beautiful piece of art.",
+      "options": ["I have seen", "have I seen", "did I saw"],
+      "answer": "have I seen"
+    },
+    {
+      "id": 276,
+      "question": "I look forward to ...... from you soon.",
+      "options": ["hear", "hearing", "to hear"],
+      "answer": "hearing"
+    },
+    {
+      "id": 277,
+      "question": "He is used to ...... early in the morning.",
+      "options": ["wake up", "waking up", "woke up"],
+      "answer": "waking up"
+    },
+    {
+      "id": 278,
+      "question": "It's no use ...... about things you cannot change.",
+      "options": ["worrying", "to worry", "worry"],
+      "answer": "worrying"
+    },
+    {
+      "id": 279,
+      "question": "The judge demanded that the witness ...... the truth.",
+      "options": ["tell", "tells", "told"],
+      "answer": "tell"
+    },
+    {
+      "id": 280,
+      "question": "It is vital that he ...... present at the meeting.",
+      "options": ["is", "be", "was"],
+      "answer": "be"
+    },
+    {
+      "id": 281,
+      "question": "By next month, I ...... living here for exactly ten years.",
+      "options": ["will have been", "will be", "am going to be"],
+      "answer": "will have been"
+    },
+    {
+      "id": 282,
+      "question": "The project is bound ...... a massive success.",
+      "options": ["to be", "being", "be"],
+      "answer": "to be"
+    },
+    {
+      "id": 283,
+      "question": "He was on the point of ...... out when the phone rang.",
+      "options": ["go", "going", "to go"],
+      "answer": "going"
+    },
+    {
+      "id": 284,
+      "question": "He speaks English fluently, ...... makes it easy for him to travel.",
+      "options": ["what", "which", "that"],
+      "answer": "which"
+    },
+    {
+      "id": 285,
+      "question": "The restaurant, ...... was highly recommended, was closed.",
+      "options": ["which", "that", "where"],
+      "answer": "which"
+    },
+    {
+      "id": 286,
+      "question": "The target was achieved, ...... to the hard work of the team.",
+      "options": ["thanks", "thanking", "thanked"],
+      "answer": "thanks"
+    },
+    {
+      "id": 287,
+      "question": "Hardly ...... entered the building when the lights went out.",
+      "options": ["had he", "he had", "did he"],
+      "answer": "had he"
+    },
+    {
+      "id": 288,
+      "question": "Not only ...... the match, but they also broke the record.",
+      "options": ["they won", "did they win", "won they"],
+      "answer": "did they win"
+    },
+    {
+      "id": 289,
+      "question": "Little ...... know that the event would change his life forever.",
+      "options": ["did he", "he did", "he"],
+      "answer": "did he"
+    },
+    {
+      "id": 290,
+      "question": "I object to ...... treated like a complete beginner.",
+      "options": ["be", "being", "been"],
+      "answer": "being"
+    },
+    {
+      "id": 291,
+      "question": "She was seen ...... the building just before midnight.",
+      "options": ["leave", "leaving", "to leave"],
+      "answer": "leaving"
+    },
+    {
+      "id": 292,
+      "question": "We had our house ...... last winter.",
+      "options": ["paint", "painted", "painting"],
+      "answer": "painted"
+    },
+    {
+      "id": 293,
+      "question": "Get your assistant ...... those documents immediately.",
+      "options": ["copy", "to copy", "copied"],
+      "answer": "to copy"
+    },
+    {
+      "id": 294,
+      "question": "Had I known the truth, I ...... differently.",
+      "options": ["would act", "acted", "would have acted"],
+      "answer": "would have acted"
+    },
+    {
+      "id": 295,
+      "question": "Were he ...... the manager, things would run smoother.",
+      "options": ["to become", "become", "becoming"],
+      "answer": "to become"
+    },
+    {
+      "id": 296,
+      "question": "Should you ...... any assistance, do not hesitate to contact us.",
+      "options": ["need", "needed", "will need"],
+      "answer": "need"
+    },
+    {
+      "id": 297,
+      "question": "But for your timely warning, we ...... all our investments.",
+      "options": ["would lose", "had lost", "would have lost"],
+      "answer": "would have lost"
+    },
+    {
+      "id": 298,
+      "question": "He talked as if he ...... an expert in the field, but he wasn't.",
+      "options": ["is", "was", "were"],
+      "answer": "were"
+    },
+    {
+      "id": 299,
+      "question": "It's high time you ...... looking for a real job.",
+      "options": ["start", "started", "will start"],
+      "answer": "started"
+    },
+    {
+      "id": 300,
+      "question": "The company's profits surged, ...... all expectations.",
+      "options": ["exceeded", "exceeding", "to exceed"],
+      "answer": "exceeding"
+    },
+    {
+      "id": 301,
+      "question": "The problem needs ...... as soon as possible.",
+      "options": ["addressing", "to address", "addressed"],
+      "answer": "addressing"
+    },
+    {
+      "id": 302,
+      "question": "He was accused of ...... state secrets.",
+      "options": ["leaking", "to leak", "leak"],
+      "answer": "leaking"
+    },
+    {
+      "id": 303,
+      "question": "I can't help ...... that something is wrong.",
+      "options": ["feel", "feeling", "to feel"],
+      "answer": "feeling"
+    },
+    {
+      "id": 304,
+      "question": "They were made ...... the entire room after the mess.",
+      "options": ["clean", "to clean", "cleaning"],
+      "answer": "to clean"
+    },
+    {
+      "id": 305,
+      "question": "The CEO is rumored ...... resigned yesterday morning.",
+      "options": ["to have", "having", "to have been"],
+      "answer": "to have"
+    },
+    {
+      "id": 306,
+      "question": "He is well known for ...... a volatile temper.",
+      "options": ["have", "having", "has"],
+      "answer": "having"
+    },
+    {
+      "id": 307,
+      "question": "The contract is subject ...... approval by the legal department.",
+      "options": ["to", "of", "for"],
+      "answer": "to"
+    },
+    {
+      "id": 308,
+      "question": "She succeeded ...... passing the exam despite the difficulty.",
+      "options": ["on", "in", "at"],
+      "answer": "in"
+    },
+    {
+      "id": 309,
+      "question": "He has a reputation ...... being an excellent negotiator.",
+      "options": ["for", "of", "to"],
+      "answer": "for"
+    },
+    {
+      "id": 310,
+      "question": "We are committed ...... providing the best possible service.",
+      "options": ["to", "with", "for"],
+      "answer": "to"
+    },
+    {
+      "id": 311,
+      "question": "They congratulated him ...... winning the championship.",
+      "options": ["for", "on", "about"],
+      "answer": "on"
+    },
+    {
+      "id": 312,
+      "question": "He acts ...... if he owned the whole company.",
+      "options": ["like", "as", "as if"],
+      "answer": "as if"
+    },
+    {
+      "id": 313,
+      "question": "The event was canceled ...... to lack of interest.",
+      "options": ["because", "due", "owing"],
+      "answer": "due"
+    },
+    {
+      "id": 314,
+      "question": "No matter ...... hard he tried, he couldn't break the record.",
+      "options": ["how", "what", "even"],
+      "answer": "how"
+    },
+    {
+      "id": 315,
+      "question": "Provided ...... you sign the agreement, we can proceed.",
+      "options": ["that", "with", "for"],
+      "answer": "that"
+    },
+    {
+      "id": 316,
+      "question": "As ...... as I'm concerned, the matter is fully settled.",
+      "options": ["far", "long", "much"],
+      "answer": "far"
+    },
+    {
+      "id": 317,
+      "question": "The financial crisis brought ...... the downfall of the administration.",
+      "options": ["up", "about", "along"],
+      "answer": "about"
+    },
+    {
+      "id": 318,
+      "question": "They had to call ...... the football match because of rain.",
+      "options": ["off", "out", "away"],
+      "answer": "off"
+    },
+    {
+      "id": 319,
+      "question": "He always puts ...... doing his homework until Sunday night.",
+      "options": ["away", "off", "up"],
+      "answer": "off"
+    },
+    {
+      "id": 320,
+      "question": "She looks ...... to her older sister as a role model.",
+      "options": ["up", "down", "forward"],
+      "answer": "up"
+    },
+    {
+      "id": 321,
+      "question": "You should cut ...... on sugar if you want to stay healthy.",
+      "options": ["off", "down", "out"],
+      "answer": "down"
+    },
+    {
+      "id": 322,
+      "question": "The presentation was ...... detailed and well structured.",
+      "options": ["highly", "strongly", "deeply"],
+      "answer": "highly"
+    },
+    {
+      "id": 323,
+      "question": "I was ...... disappointed by the final outcome of the meeting.",
+      "options": ["bitterly", "sharply", "heavily"],
+      "answer": "bitterly"
+    },
+    {
+      "id": 324,
+      "question": "The news was ...... shocking to everyone involved.",
+      "options": ["profoundly", "wide", "flatly"],
+      "answer": "profoundly"
+    },
+    {
+      "id": 325,
+      "question": "He flatly ...... to accept the terms of the new contract.",
+      "options": ["denied", "refused", "disagreed"],
+      "answer": "refused"
+    },
+    {
+      "id": 326,
+      "question": "The company has gained a ...... advantage over its competitors.",
+      "options": ["distinct", "heavy", "sharp"],
+      "answer": "distinct"
+    },
+    {
+      "id": 327,
+      "question": "There is a ...... possibility that the flights will be delayed.",
+      "options": ["strong", "heavy", "high"],
+      "answer": "strong"
+    },
+    {
+      "id": 328,
+      "question": "He made a ...... mistake by resigning without another job.",
+      "options": ["grave", "deep", "heavy"],
+      "answer": "grave"
+    },
+    {
+      "id": 329,
+      "question": "The strategy proved to be a ...... failure.",
+      "options": ["complete", "wide", "highly"],
+      "answer": "complete"
+    },
+    {
+      "id": 330,
+      "question": "He has a ...... understanding of quantum mechanics.",
+      "options": ["profound", "heavy", "strongly"],
+      "answer": "profound"
+    },
+    {
+      "id": 331,
+      "question": "The weather conditions were ...... volatile.",
+      "options": ["highly", "deeply", "strongly"],
+      "answer": "highly"
+    },
+    {
+      "id": 332,
+      "question": "She has an ...... ability to solve complex puzzles.",
+      "options": ["uncanny", "heavy", "grave"],
+      "answer": "uncanny"
+    },
+    {
+      "id": 333,
+      "question": "The results were ...... identical across all testing groups.",
+      "options": ["virtually", "flatly", "strongly"],
+      "answer": "virtually"
+    },
+    {
+      "id": 334,
+      "question": "He was ...... aware of the risks involved in the expedition.",
+      "options": ["acutely", "sharply", "heavily"],
+      "answer": "acutely"
+    },
+    {
+      "id": 335,
+      "question": "The decision was ...... contested by members of the board.",
+      "options": ["fiercely", "bitterly", "profoundly"],
+      "answer": "fiercely"
+    },
+    {
+      "id": 336,
+      "question": "The two theories are ...... opposed to one another.",
+      "options": ["diametrically", "flatly", "strongly"],
+      "answer": "diametrically"
+    },
+    {
+      "id": 337,
+      "question": "The changes will have a ...... impact on the local economy.",
+      "options": ["profound", "grave", "heavy"],
+      "answer": "profound"
+    },
+    {
+      "id": 338,
+      "question": "He was ...... moved by the performance.",
+      "options": ["deeply", "highly", "strongly"],
+      "answer": "deeply"
+    },
+    {
+      "id": 339,
+      "question": "The argument she presented was ...... flawed.",
+      "options": ["fundamentally", "flatly", "strongly"],
+      "answer": "fundamentally"
+    },
+    {
+      "id": 340,
+      "question": "The project was deemed a ...... success by the executives.",
+      "options": ["resounding", "heavy", "deep"],
+      "answer": "resounding"
+    },
+    {
+      "id": 341,
+      "question": "She has a ...... knowledge of classical literature.",
+      "options": ["vast", "heavy", "grave"],
+      "answer": "vast"
+    },
+    {
+      "id": 342,
+      "question": "The new law will come ...... effect next month.",
+      "options": ["into", "to", "for"],
+      "answer": "into"
+    },
+    {
+      "id": 343,
+      "question": "He is currently ...... investigation for financial fraud.",
+      "options": ["under", "on", "with"],
+      "answer": "under"
+    },
+    {
+      "id": 344,
+      "question": "The company is ...... the brink of bankruptcy.",
+      "options": ["on", "at", "in"],
+      "answer": "on"
+    },
+    {
+      "id": 345,
+      "question": "He left the country with a view to ...... work in America.",
+      "options": ["finding", "find", "to find"],
+      "answer": "finding"
+    },
+    {
+      "id": 346,
+      "question": "We really should stop buying chocolate, ...... ?",
+      "options": ["shouldn't we", "should we", "don't we"],
+      "answer": "shouldn't we"
+    },
+    {
+      "id": 347,
+      "question": "Let's see if we can beat the last record, ...... ?",
+      "options": ["shan't we", "won't we", "shall we"],
+      "answer": "shall we"
+    },
+    {
+      "id": 348,
+      "question": "The pretty little brown dog was ...... .",
+      "options": ["aggressive surprisingly", "surprisingly aggressive", "aggressively surprising"],
+      "answer": "surprisingly aggressive"
+    },
+    {
+      "id": 349,
+      "question": "He worked so hard that he passed the final exam ...... .",
+      "options": ["easy", "in an easy way", "easily"],
+      "answer": "easily"
+    },
+    {
+      "id": 350,
+      "question": "There were ...... enough plates for all the guests.",
+      "options": ["hard", "hardly", "not hardly"],
+      "answer": "hardly"
+    },
+    {
+      "id": 351,
+      "question": "I'd rather ...... visit me this weekend.",
+      "options": ["you don't", "you won't", "you didn't"],
+      "answer": "you didn't"
+    },
+    {
+      "id": 352,
+      "question": "I wish I ...... to her advice – it's too late now to change my mind.",
+      "options": ["had listened", "listened", "would listen"],
+      "answer": "had listened"
+    },
+    {
+      "id": 353,
+      "question": "...... your husband forgot your wedding anniversary, what would you do?",
+      "options": ["Were", "Unless", "Supposing"],
+      "answer": "Supposing"
+    },
+    {
+      "id": 354,
+      "question": "...... bump into Graham, you would be amazed. He's shaved his head!",
+      "options": ["Had you", "Did you", "Should you"],
+      "answer": "Should you"
+    },
+    {
+      "id": 355,
+      "question": "...... the Queen of England, I would make you a Lord!",
+      "options": ["Were I", "Was I", "Being"],
+      "answer": "Were I"
+    },
+    {
+      "id": 356,
+      "question": "...... the competition would be so strong, I wouldn't have entered the race.",
+      "options": ["If I knew", "Had I known", "Did I know"],
+      "answer": "Had I known"
+    },
+    {
+      "id": 357,
+      "question": "The financial rewards were minimal; ...... , it was an amazing experience.",
+      "options": ["nevertheless", "furthermore", "in contrast"],
+      "answer": "nevertheless"
+    },
+    {
+      "id": 358,
+      "question": "The engine broke down, ...... adding to our difficulties.",
+      "options": ["thereby", "whereas", "consequently"],
+      "answer": "thereby"
+    },
+    {
+      "id": 359,
+      "question": "He speaks Spanish fluently ...... he lived in Madrid for ten years.",
+      "options": ["by virtue of", "seeing that", "in view of"],
+      "answer": "seeing that"
+    },
+    {
+      "id": 360,
+      "question": "She acts with complete integrity, ...... of the consequences.",
+      "options": ["regardless", "irrespective", "independent"],
+      "answer": "regardless"
+    }
+  ]
+}
