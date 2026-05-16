@@ -1,0 +1,87 @@
+{
+  "exam_title": "English Grammar - Core Tenses Review (20 Items)",
+  "total_questions": 20,
+  "level": "Intermediate",
+  "topics": ["Present Simple", "Past Simple", "Present Continuous", "Present Perfect"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "I ...... from Italy originally, but I live here now.",
+      "options": ["am", "is", "are"],
+      "answer": "am"
+    },
+    {
+      "id": 2,
+      "question": "The office ...... every evening by the cleaning staff.",
+      "options": ["cleans", "is cleaned", "is cleaning"],
+      "answer": "is cleaned"
+    },
+    {
+      "id": 3,
+      "question": "They ...... to work by car because parking is too expensive.",
+      "options": ["aren't go", "don't go", "doesn't go"],
+      "answer": "don't go"
+    },
+    {
+      "id": 4,
+      "question": "Thousands of automated emails ...... around the world every second.",
+      "options": ["are sent", "are send", "sent"],
+      "answer": "are sent"
+    },
+    {
+      "id": 5,
+      "question": "I ...... very busy at work last week.",
+      "options": ["was", "were", "am"],
+      "answer": "was"
+    },
+    {
+      "id": 6,
+      "question": "They ...... at home yesterday when the power went out.",
+      "options": ["wasn't", "weren't", "don't were"],
+      "answer": "weren't"
+    },
+    {
+      "id": 7,
+      "question": "The students ...... this technical course last May.",
+      "options": ["start", "started", "are starting"],
+      "answer": "started"
+    },
+    {
+      "id": 8,
+      "question": "A new type of plant ...... in the Amazon jungle last week.",
+      "options": ["discovered", "was discovered", "is discovered"],
+      "answer": "was discovered"
+    },
+    {
+      "id": 9,
+      "question": "Right now, I ...... cooking dinner for some friends.",
+      "options": ["am", "s", "re"],
+      "answer": "am"
+    },
+    {
+      "id": 10,
+      "question": "She ...... a book right now - she's reading a magazine.",
+      "options": ["not reading", "don't read", "isn't reading"],
+      "answer": "isn't reading"
+    },
+    {
+      "id": 11,
+      "question": "Don't enter that room; it ...... right now.",
+      "options": ["is painted", "is being painted", "paints"],
+      "answer": "is being painted"
+    },
+    {
+      "id": 12,
+      "question": "Account details ...... by our team at this very moment.",
+      "options": ["are verifying", "are being verified", "verify"],
+      "answer": "are being verified"
+    },
+    {
+      "id": 13,
+      "question": "Great news! I ...... tickets so we can go to the concert.",
+      "options": ["'ve booked", "book", "'s booked"],
+      "answer": "'ve booked"
+    },
+    {
+      "id": 14,
+      "question": "
