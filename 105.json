@@ -1,0 +1,106 @@
+{
+  "codigo": 105,
+  "titulo": "Evaluación Gramatical Inicial",
+  "preguntas": [
+    {
+      "pregunta": "He's ... doctor.",
+      "opciones": ["a", "an", "-"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Pablo is ... artist.",
+      "opciones": ["a", "an", "-"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "I ...... from Italy.",
+      "opciones": ["am", "is", "are"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "They ...... eighteen.",
+      "opciones": ["am", "is", "'re"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "I ...... thirty. I'm thirty-one.",
+      "opciones": ["'m not", "isn't", "aren't"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "'Is Andrew British?' 'No, he .......'",
+      "opciones": ["aren't", "isn't", "is"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "The three brothers are ......",
+      "opciones": ["engineer", "engineers", "an engineers"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "That's ...... teacher.",
+      "opciones": ["Lisas", "Lisa's", "Lisas'"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "She's my sister. ...... name is Ana.",
+      "opciones": ["His", "Her", "Its"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "...... house is in the city centre.",
+      "opciones": ["Are", "Our", "We"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Is ...... your pen?",
+      "opciones": ["this", "that's", "these"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "...... my bags?",
+      "opciones": ["Where's", "Where are", "Are where"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Can you ...... French?",
+      "opciones": ["speaks", "speak", "to speak"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "They are ......",
+      "opciones": ["fasts cars", "cars fast", "fast cars"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "I ...... like pizza.",
+      "opciones": ["no", "don't", "doesn't"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "...... sushi?",
+      "opciones": ["You like", "Does you like", "Do you like"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "He ...... the new girl in our class.",
+      "opciones": ["like", "likes", "don't like"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "She ...... work at five.",
+      "opciones": ["finish", "finishs", "finishes"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "There ...... two sofas in the room.",
+      "opciones": ["am", "is", "are"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "...... there a café near here?",
+      "opciones": ["Are", "Is", "Am"],
+      "correcta": 1
+    }
+  ]
+}
