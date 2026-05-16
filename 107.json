@@ -1,0 +1,127 @@
+{
+  "exam_title": "English Placement Test - Beginner (A1) Part 1",
+  "total_questions": 20,
+  "level": "Beginner",
+  "questions": [
+    {
+      "id": 1,
+      "question": "He's ... doctor.",
+      "options": ["a", "an", "---"],
+      "answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "Pablo is ... artist.",
+      "options": ["a", "an", "---"],
+      "answer": "an"
+    },
+    {
+      "id": 3,
+      "question": "I ...... from Italy.",
+      "options": ["am", "is", "are"],
+      "answer": "am"
+    },
+    {
+      "id": 4,
+      "question": "She ...... married.",
+      "options": ["'m", "'s", "'re"],
+      "answer": "'s"
+    },
+    {
+      "id": 5,
+      "question": "This picture is nice. It ...... from Brazil.",
+      "options": ["'m", "'s", "'re"],
+      "answer": "'s"
+    },
+    {
+      "id": 6,
+      "question": "......'ve got a passport.",
+      "options": ["I", "He", "My"],
+      "answer": "I"
+    },
+    {
+      "id": 7,
+      "question": "Have you got ...... camera?",
+      "options": ["you", "you're", "your"],
+      "answer": "your"
+    },
+    {
+      "id": 8,
+      "question": "They ...... eighteen.",
+      "options": ["am", "is", "'re"],
+      "answer": "'re"
+    },
+    {
+      "id": 9,
+      "question": "We ...... single.",
+      "options": ["'m", "'s", "'re"],
+      "answer": "'re"
+    },
+    {
+      "id": 10,
+      "question": "I ...... thirty. I'm thirty-one.",
+      "options": ["am not", "isn't", "arent"],
+      "answer": "am not"
+    },
+    {
+      "id": 11,
+      "question": "They .... from Chile. They're from Argentina.",
+      "options": ["am not", "isn't", "aren't"],
+      "answer": "aren't"
+    },
+    {
+      "id": 12,
+      "question": "'Is Andrew British?' 'No, he .......'",
+      "options": ["aren't", "isn't", "is"],
+      "answer": "isn't"
+    },
+    {
+      "id": 13,
+      "question": "...... the Eiffel Tower in Paris?",
+      "options": ["Am", "Is", "Are"],
+      "answer": "Is"
+    },
+    {
+      "id": 14,
+      "question": "'Are you Polish?' 'Yes, I .......'",
+      "options": ["am", "is", "are"],
+      "answer": "am"
+    },
+    {
+      "id": 15,
+      "question": "The three brothers are ......",
+      "options": ["engineer", "engineers", "an engineers"],
+      "answer": "engineers"
+    },
+    {
+      "id": 16,
+      "question": "That's...... teacher.",
+      "options": ["Lisas", "Lisa's", "Lisas'"],
+      "answer": "Lisa's"
+    },
+    {
+      "id": 17,
+      "question": "Who is David? ...... my father.",
+      "options": ["His", "He", "He's"],
+      "answer": "He's"
+    },
+    {
+      "id": 18,
+      "question": "She's my sister. .... name is Ana.",
+      "options": ["His", "Her", "Its"],
+      "answer": "Her"
+    },
+    {
+      "id": 19,
+      "question": "...... house is in the city centre.",
+      "options": ["Are", "Our", "We"],
+      "answer": "Our"
+    },
+    {
+      "id": 20,
+      "question": "Your wallet is ...... to the bag.",
+      "options": ["in", "on", "next"],
+      "answer": "next"
+    }
+  ]
+}
