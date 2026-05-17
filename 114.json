@@ -1,0 +1,26 @@
+{
+  "codigo": 203,
+  "titulo": "Idoneidad Avanzado - Bloque 3",
+  "preguntas": [
+    {"pregunta": "The company suffered heavy losses, ...... forcing it to reduce staff.", "opciones": ["thereby", "therefore", "whereas"], "correcta": 0},
+    {"pregunta": "...... the weather was terrible, we decided to go for a walk.", "opciones": ["Despite", "In spite", "Although"], "correcta": 2},
+    {"pregunta": "We went out for a long walk ...... the terrible weather.", "opciones": ["although", "despite", "even though"], "correcta": 1},
+    {"pregunta": "The project failed completely ...... a lack of proper funding.", "opciones": ["because", "due to", "owing"], "correcta": 1},
+    {"pregunta": "He stayed up late ...... complete the financial report on time.", "opciones": ["so that", "in order to", "for"], "correcta": 1},
+    {"pregunta": "She hid the confidential letter ...... anyone else should read it.", "opciones": ["lest", "unless", "otherwise"], "correcta": 0},
+    {"pregunta": "You can borrow my car ...... you promise to drive carefully.", "opciones": ["as long as", "unless", "in case"], "correcta": 0},
+    {"pregunta": "Take an umbrella with you ...... it rains heavily later.", "opciones": ["if", "in case", "unless"], "correcta": 1},
+    {"pregunta": "We won't go to the beach ...... the weather improves drastically.", "opciones": ["if", "as long as", "unless"], "correcta": 2},
+    {"pregunta": "The situation is critical, ...... the need for immediate action.", "opciones": ["hence", "thus", "so"], "correcta": 0},
+    {"pregunta": "They are dynamic, ...... their main competitors are slow to react.", "opciones": ["whereas", "otherwise", "besides"], "correcta": 0},
+    {"pregunta": "You need to submit it today; ...... your application will be rejected.", "opciones": ["otherwise", "therefore", "furthermore"], "correcta": 0},
+    {"pregunta": "He is an exceptional teacher, ...... can be proven by his results.", "opciones": ["which", "what", "that"], "correcta": 0},
+    {"pregunta": "The person ...... car was stolen has gone to the police station.", "opciones": ["who", "which", "whose"], "correcta": 2},
+    {"pregunta": "That's the historic restaurant ...... we had dinner last week.", "opciones": ["where", "which", "that"], "correcta": 0},
+    {"pregunta": "We evaluate the pedagogical impact, ...... simple it may seem.", "opciones": ["however", "whatever", "despite"], "correcta": 0},
+    {"pregunta": "I am taking a phonetics course ...... improve my pronunciation.", "opciones": ["so as to", "with a view to", "in order that"], "correcta": 0},
+    {"pregunta": "The presentation was far from perfect; ______, it raised valid questions.", "opciones": ["nonetheless", "whereas", "furthermore"], "correcta": 0},
+    {"pregunta": "The new legislation is complex. ______ , it is difficult to enforce.", "opciones": ["Moreover", "However", "In contrast"], "correcta": 0},
+    {"pregunta": "The device is small, light, and ...... very easy to carry.", "opciones": ["consequently", "but", "whereas"], "correcta": 0}
+  ]
+}
