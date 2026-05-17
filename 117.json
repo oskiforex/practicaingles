@@ -1,0 +1,96 @@
+{
+  "codigo": 117,
+  "titulo": "Mechanical Engineering Materials",
+  "preguntas": [
+    {
+      "pregunta": "[1/10] When a machine or tool is made, the most suitable material must be chosen by considering its properties (mechanical, thermal, electrical and chemical). Q: How can properties be classified?",
+      "opciones": [
+        "As metal, polymer, ceramic and composite.",
+        "As mechanical, thermal, electrical and chemical.",
+        "As soft, pasty, resistant and brittle."
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[2/10] The main types of materials used in mechanical engineering are metals, polymer materials, ceramics and composite materials. Q: Which is NOT a main type of material?",
+      "opciones": [
+        "Gases and liquids.",
+        "Metals and ceramics.",
+        "Polymer and composite materials."
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[3/10] The most commonly used materials are metals, divided into ferrous and non-ferrous. They can be used pure or mixed with other elements. Q: What are the two forms to use metals?",
+      "opciones": [
+        "Only in their pure form.",
+        "Only as ferrous elements.",
+        "In their pure form or mixed with other elements."
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[4/10] In this second case we have an alloy and it is used to improve some properties of metals. Ferrous metals are iron and alloys using iron. Q: Why do engineers use an alloy?",
+      "opciones": [
+        "To improve some properties of the metals.",
+        "To make metals softer and pasty.",
+        "To remove iron from the mixture."
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[5/10] Because iron is soft and pasty it is not suitable as a structural material, so a small amount of carbon is added to make steel alloy. Q: What is added to iron to create steel?",
+      "opciones": [
+        "Copper.",
+        "Carbon.",
+        "Aluminium."
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[6/10] Non-ferrous metals contain little or no iron. The most common non-ferrous metals used in mechanics are copper, zinc, tin and aluminium. Q: What is the main characteristic of non-ferrous metals?",
+      "opciones": [
+        "They contain little or no iron.",
+        "They are composed mostly of carbon.",
+        "They are exclusively used in buildings."
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[7/10] Common non-ferrous alloys are brass (copper and zinc), bronze (copper and tin) and aluminium alloys used in the aircraft industry. Q: Which industry uses aluminium alloys?",
+      "opciones": [
+        "The building industry.",
+        "The aircraft industry.",
+        "The electrical wiring industry."
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[8/10] Other examples of materials are plastic and rubber. PVC or polyvinyl chloride is a type of plastic used to insulate wires and cables. Q: What is PVC used for?",
+      "opciones": [
+        "To mix with copper and create brass.",
+        "To build aircraft structures.",
+        "To insulate wires and cables."
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[9/10] Rubber is a polymer and its best property is elasticity (returns to its original shape). Ceramics are insulators: hard, strong, but brittle. Q: What happens to rubber after deformation?",
+      "opciones": [
+        "It breaks immediately because it is brittle.",
+        "It returns to its original size and shape.",
+        "It permanently changes its electrical properties."
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[10/10] Composite materials are two or more materials combined to improve properties. Concrete is reinforced with steel and used in building. Q: In building, what is concrete reinforced with?",
+      "opciones": [
+        "With polymers and rubbers.",
+        "With ceramic insulators.",
+        "With steel."
+      ],
+      "correcta": 2
+    }
+  ]
+}
