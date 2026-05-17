@@ -1,0 +1,29 @@
+{
+  "codigo": 117,
+  "title": "Materials in Mechanical Engineering",
+  "language": "en",
+  "full_text": "When a machine or a tool is made, the most suitable material must be chosen...",
+  "paragraphs": [
+    "When a machine or a tool is made, the most suitable material must be chosen by considering its properties, which can be classified as mechanical, thermal, electrical and chemical.",
+    "The main types of materials used in mechanical engineering are metals, polymer materials, ceramics and composite materials.",
+    "... (restaurado párrafo por párrafo para facilitar el uso de ListViews o TextSpans) ..."
+  ],
+  "key_vocabulary": [
+    {
+      "word": "alloy",
+      "definition": "A mixture of different metals or a metal and another element."
+    },
+    {
+      "word": "improve",
+      "definition": "To make something better."
+    }
+  ],
+  "material_classifications": {
+    "ferrous_metals": ["iron", "steel"],
+    "non_ferrous_metals": ["copper", "zinc", "tin", "aluminium"],
+    "non_ferrous_alloys": ["brass", "bronze", "aluminium alloys"],
+    "polymers": ["plastic", "PVC", "rubber"],
+    "ceramics": ["ceramic materials"],
+    "composites": ["concrete"]
+  }
+}
