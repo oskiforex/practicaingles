@@ -1,0 +1,26 @@
+{
+  "codigo": 116,
+  "titulo": "Idoneidad Avanzado - Bloque 5",
+  "preguntas": [
+    {"pregunta": "When you decide ...... home, I'll give you a lift.", "opciones": ["on going", "to go", "going"], "correcta": 1},
+    {"pregunta": "It's not worth ...... your life just to get there quickly.", "opciones": ["risk", "to risk", "risking"], "correcta": 2},
+    {"pregunta": "Do you remember ...... me that you weren't going to be in?", "opciones": ["to tell", "tell", "telling"], "correcta": 2},
+    {"pregunta": "Please don't forget ...... the front door when you leave.", "opciones": ["to lock", "lock", "locking"], "correcta": 0},
+    {"pregunta": "The class chose ...... for the official exam this term.", "opciones": ["to not register", "not to register", "to register not"], "correcta": 1},
+    {"pregunta": "My manager strictly suggested ...... a short break.", "opciones": ["to take", "taking", "take"], "correcta": 1},
+    {"pregunta": "I managed ...... the project on time despite the difficulties.", "opciones": ["to finish", "finishing", "finish"], "correcta": 0},
+    {"pregunta": "I look forward to ...... from your department soon.", "opciones": ["hear", "hearing", "to hearing"], "correcta": 1},
+    {"pregunta": "We strongly object to ...... treated like little children.", "opciones": ["being", "be", "been"], "correcta": 0},
+    {"pregunta": "It's no use ...... about things you cannot change.", "opciones": ["to worry", "worrying", "worry"], "correcta": 1},
+    {"pregunta": "He categorically denied ...... the money from the company safe.", "opciones": ["to steal", "stealing", "steal"], "correcta": 1},
+    {"pregunta": "They are considering ...... a new vehicle next month.", "opciones": ["to buy", "buying", "buy"], "correcta": 1},
+    {"pregunta": "I don't mind ...... extra hours if it's strictly necessary.", "opciones": ["working", "to work", "work"], "correcta": 0},
+    {"pregunta": "The doctor strongly advised him ...... smoking immediately.", "opciones": ["stop", "to stop", "stopping"], "correcta": 1},
+    {"pregunta": "They warned us ...... go near the dangerous edge of the cliff.", "opciones": ["not to", "to not", "don't"], "correcta": 0},
+    {"pregunta": "She was thought ...... the country before the extensive audit began.", "opciones": ["to have left", "to leave", "having left"], "correcta": 0},
+    {"pregunta": "The new curriculum was designed with a ...... toward digital literacy.", "opciones": ["view", "purpose", "sight"], "correcta": 0},
+    {"pregunta": "They couldn't find the keys, so they ...... have forgotten them.", "opciones": ["must", "should", "can"], "correcta": 0},
+    {"pregunta": "She is widely regarded ...... one of the most innovative teachers.", "opciones": ["as", "like", "to be"], "correcta": 0},
+    {"pregunta": "We were completely lost, but luckily we ...... find our way back.", "opciones": ["could", "were able to", "succeeded to"], "correcta": 1}
+  ]
+}
