@@ -1,0 +1,26 @@
+{
+  "codigo": 115,
+  "titulo": "Idoneidad Avanzado - Bloque 4",
+  "preguntas": [
+    {"pregunta": "The test was ...... difficult, but she managed to pass it.", "opciones": ["extremely", "extreme", "extremest"], "correcta": 0},
+    {"pregunta": "He is ...... the most talented musician in the entire orchestra.", "opciones": ["by far", "far", "much"], "correcta": 0},
+    {"pregunta": "The situation is getting ...... worse as time goes on.", "opciones": ["gradually", "gradual", "more gradual"], "correcta": 0},
+    {"pregunta": "She was ...... exhausted after running the full marathon.", "opciones": ["utterly", "very", "highly"], "correcta": 0},
+    {"pregunta": "The logical argument he presented was ...... flawed.", "opciones": ["fundamentally", "fundamental", "more fundamental"], "correcta": 0},
+    {"pregunta": "He is highly ...... by all his professional colleagues at work.", "opciones": ["respected", "respecting", "respectful"], "correcta": 0},
+    {"pregunta": "The decision was bitterly ...... by the local community members.", "opciones": ["opposed", "opposing", "opposite"], "correcta": 0},
+    {"pregunta": "It is ...... believed that the local economy will recover next year.", "opciones": ["widely", "wide", "wider"], "correcta": 1},
+    {"pregunta": "The product is ...... available in almost all major supermarkets.", "opciones": ["readily", "ready", "reading"], "correcta": 0},
+    {"pregunta": "She was deeply ...... by the extremely kind words of her friends.", "opciones": ["moved", "moving", "move"], "correcta": 0},
+    {"pregunta": "The layout is perfectly ...... to our current workflow requirements.", "opciones": ["suited", "suiting", "suit"], "correcta": 0},
+    {"pregunta": "The unexpected news was ...... shocking to everyone in the office.", "opciones": ["profoundly", "profound", "more profound"], "correcta": 0},
+    {"pregunta": "The two computer systems are ...... incompatible with each other.", "opciones": ["entirely", "entire", "entirely more"], "correcta": 0},
+    {"pregunta": "He has a ...... clear understanding of the complex situation.", "opciones": ["remarkably", "remarkable", "remarked"], "correcta": 0},
+    {"pregunta": "The results were ...... superior to our initial expectations.", "opciones": ["vastly", "vast", "vaster"], "correcta": 0},
+    {"pregunta": "The theory is heavily ...... on recent scientific evidence.", "opciones": ["dependent", "depending", "depend"], "correcta": 0},
+    {"pregunta": "She is ...... capable of handling this corporate responsibility.", "opciones": ["perfectly", "perfect", "perfected"], "correcta": 0},
+    {"pregunta": "The proposal was unanimously ...... by all the board members.", "opciones": ["approved", "approving", "approval"], "correcta": 0},
+    {"pregunta": "The old building was completely ...... during the heavy storm.", "opciones": ["destroyed", "destroying", "destroy"], "correcta": 0},
+    {"pregunta": "He was painfully ...... of his severe lack of experience.", "opciones": ["aware", "awaring", "awareness"], "correcta": 0}
+  ]
+}
