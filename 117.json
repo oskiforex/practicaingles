@@ -1,0 +1,96 @@
+{
+  "codigo": 117,
+  "titulo": "Mechanical Engineering Materials",
+  "preguntas": [
+    {
+      "pregunta": "PARTE 1/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nWhen a machine or a tool is made, the most suitable material must be chosen by considering its properties, which can be classified as mechanical, thermal, electrical and chemical.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 2/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nThe main types of materials used in mechanical engineering are metals, polymer materials, ceramics and composite materials.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 3/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nThe most commonly used materials are metals, which can be divided into ferrous and non-ferrous. They can be used in their pure form or mixed with other elements.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 4/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nIn this second case we have an alloy and it is used to improve some properties of the metals. The most commonly used ferrous metals are iron and alloys which use iron.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 5/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nBecause iron is soft and pasty it is not suitable to be used as a structural material, so a small amount of carbon is added to it to make steel alloy.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 6/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nNon-ferrous metals contain little or no iron. The most common non-ferrous metals used in mechanics are copper, zinc, tin and aluminium.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 7/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nSome common non-ferrous alloys are brass (formed by mixing copper and zinc), bronze (formed by mixing copper and tin) and other aluminium alloys which are used in the aircraft industry.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 8/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nOther examples of materials used in mechanical engineering are plastic and rubber. PVC or polyvinyl chloride is a type of plastic and is used to insulate wires and cables.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 9/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nRubber is a polymer and its best property is elasticity, as it returns to its original size and shape after deformation. Ceramic materials are good insulators: hard, resistant and strong, but brittle.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "PARTE 10/10 — LEER Y TRADUCIR EL SIGUIENTE TEXTO:\n\nComposite materials are made up of two or more materials combined to improve their mechanical properties. Concrete is reinforced with steel and is used in building engineering.",
+      "opciones": [
+        "Texto leído",
+        "Texto comprendido",
+        "Texto traducido"
+      ],
+      "correcta": 2
+    }
+  ]
+}
