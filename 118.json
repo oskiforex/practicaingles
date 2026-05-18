@@ -1,0 +1,206 @@
+{
+  "codigo": 118,
+  "titulo": "Prepositions of Time: In, On, At",
+  "preguntas": [
+    {
+      "pregunta": "[1/40] I have a very important meeting ___ 9:00 AM. Q: Choose the correct preposition for a specific time.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[2/40] My birthday is ___ October. Q: Choose the correct preposition for a month.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[3/40] We always visit our grandparents ___ Sundays. Q: Choose the correct preposition for days of the week.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[4/40] The French Revolution happened ___ the 18th century. Q: Choose the correct preposition for centuries.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[5/40] I love reading books ___ night. Q: Choose the correct preposition for the specific expression 'night'.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[6/40] The flowers look beautiful ___ spring. Q: Choose the correct preposition for seasons.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[7/40] The package arrived ___ Monday morning. Q: Choose the correct preposition for a specific day part.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[8/40] Shakespeare was born ___ 1564. Q: Choose the correct preposition for years.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[9/40] I usually drink a cup of coffee ___ the morning. Q: Choose the correct preposition for parts of the day.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[10/40] They always give each other gifts ___ Christmas Day. Q: Choose the correct preposition for specific holiday days.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[11/40] The train leaves exactly ___ noon. Q: Choose the correct preposition for specific clock points.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[12/40] Musicians made great music ___ the 1990s. Q: Choose the correct preposition for decades.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[13/40] We got stuck in traffic ___ New Year's Eve. Q: Choose the correct preposition for holiday eves.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[14/40] She started working here ___ July 15th. Q: Choose the correct preposition for specific calendar dates.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[15/40] The stars shine brightly ___ midnight. Q: Choose the correct preposition for 'midnight'.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[16/40] People usually relax ___ the weekend. Q: Choose the correct preposition for standard British/International usage.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[17/40] The concert takes place ___ Friday evening. Q: Choose the correct preposition for day-specific times.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[18/40] We always pray together ___ dinner time. Q: Choose the correct preposition for a specific mealtime period.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[19/40] The birds fly away ___ autumn. Q: Choose the correct preposition for a season of the year.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[20/40] The doctor will see you ___ 4:30. Q: Choose the correct preposition for precise clock times.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[21/40] We had a wonderful dinner ___ my graduation day. Q: Choose the correct preposition for personal special days.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[22/40] Internet speed is much faster ___ the afternoon. Q: Choose the correct preposition for fixed daytime parts.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[23/40] The store closes ___ Easter. Q: Choose the correct preposition for the general holiday period.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[24/40] Our school classes begin ___ August. Q: Choose the correct preposition for calendar months.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[25/40] It gets extremely cold here ___ winter. Q: Choose the correct preposition for seasons.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[26/40] I will meet you outside the cinema ___ Saturday night. Q: Choose the correct preposition for specific day parts.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[27/40] Humans first landed on the moon ___ 1969. Q: Choose the correct preposition for historic calendar years.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[28/40] The bell rings exactly ___ the end of class. Q: Choose the correct preposition for a specific point in time.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[29/40] My parents got married ___ May 4th, 2010. Q: Choose the correct preposition for complete dates.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[30/40] It is difficult to see well ___ sunset. Q: Choose the correct preposition for natural daily events.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[31/40] We did a lot of fun activities ___ the summer. Q: Choose the correct preposition for the summer season.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[32/40] The final exam is ___ Tuesday afternoon. Q: Choose the correct preposition for days combined with times.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[33/40] Many old castle walls were built ___ the Middle Ages. Q: Choose the correct preposition for historical periods.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[34/40] The plane lands safely ___ 7:15 PM. Q: Choose the correct preposition for precise time.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[35/40] I love watching old movies ___ the evening. Q: Choose the correct preposition for time blocks.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[36/40] We are having a big family party ___ New Year's Day. Q: Choose the correct preposition for specific holiday days.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[37/40] He usually drinks hot cocoa ___ bedtime. Q: Choose the correct preposition for specific moments.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[38/40] Jazz music became famous ___ the 1920s. Q: Choose the correct preposition for decade blocks.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[39/40] The museum is closed ___ Thursdays. Q: Choose the correct preposition for weekly days.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[40/40] The sun shines directly overhead ___ lunchtime. Q: Choose the correct preposition for mealtime moments.",
+      "opciones": ["in", "on", "at"],
+      "correcta": 2
+    }
+  ]
+}
