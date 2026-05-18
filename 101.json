@@ -1,0 +1,206 @@
+{
+  "codigo": 101,
+  "titulo": "Mastering Question Words",
+  "preguntas": [
+    {
+      "pregunta": "[1/40] ___ is your favorite singer? Q: Choose the correct question word to ask about a person.",
+      "opciones": ["What", "Who", "Where"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[2/40] ___ do you live? Q: Choose the correct question word to ask about a place.",
+      "opciones": ["Where", "When", "Who"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[3/40] ___ does the movie start? Q: Choose the correct question word to ask about time.",
+      "opciones": ["Why", "What", "When"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[4/40] ___ are you crying? Q: Choose the correct question word to ask for a reason.",
+      "opciones": ["Why", "How", "Which"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[5/40] ___ is your phone number? Q: Choose the correct question word to ask for information.",
+      "opciones": ["Whose", "What", "Where"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[6/40] ___ color do you prefer, blue or red? Q: Choose the correct question word for choosing between options.",
+      "opciones": ["Which", "What", "How"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[7/40] ___ do you bake a chocolate cake? Q: Choose the correct question word to ask about a process or method.",
+      "opciones": ["When", "Who", "How"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[8/40] ___ book is this on the floor? Q: Choose the correct question word to ask about possession.",
+      "opciones": ["Who", "Whose", "Which"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[9/40] ___ students are there in the classroom? Q: Choose the correct question word for countable quantities.",
+      "opciones": ["How much", "How many", "How long"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[10/40] ___ milk do we need for the recipe? Q: Choose the correct question word for uncountable quantities.",
+      "opciones": ["How many", "How much", "How often"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[11/40] ___ is that man near the door? Q: Choose the correct question word to identify a person.",
+      "opciones": ["Who", "Which", "Whose"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[12/40] ___ did you put my car keys? Q: Choose the correct question word to locate an object.",
+      "opciones": ["When", "Where", "What"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[13/40] ___ is your birthday? Q: Choose the correct question word to ask for a specific date.",
+      "opciones": ["Where", "Why", "When"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[14/40] ___ did you choose this university? Q: Choose the correct question word to explain a choice.",
+      "opciones": ["Why", "What", "Which"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[15/40] ___ languages can you speak fluently? Q: Choose the correct question word to ask about specific things.",
+      "opciones": ["How", "Whose", "What"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[16/40] ___ coat is warmer, the black one or the brown one? Q: Choose the correct question word to compare choices.",
+      "opciones": ["Which", "What", "Who"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[17/40] ___ do you spell your last name? Q: Choose the correct question word to ask about a procedure.",
+      "opciones": ["How", "What", "When"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[18/40] ___ keys are these on the kitchen table? Q: Choose the correct question word for belonging.",
+      "opciones": ["Who", "Which", "Whose"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[19/40] ___ siblings do you have? Q: Choose the correct question word for a countable number of family members.",
+      "opciones": ["How many", "How much", "How old"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[20/40] ___ money did you spend on the laptop? Q: Choose the correct question word for price or currency.",
+      "opciones": ["How many", "How much", "How far"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[21/40] ___ broke the expensive glass vase? Q: Choose the correct question word for the subject person of an action.",
+      "opciones": ["Who", "What", "Whose"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[22/40] ___ is the nearest subway station? Q: Choose the correct question word for directions to a place.",
+      "opciones": ["When", "Where", "How"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[23/40] ___ do you usually wake up on weekends? Q: Choose the correct question word to ask for a time or hour.",
+      "opciones": ["What", "Where", "When"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[24/40] ___ didn't you call me last night? Q: Choose the correct question word to ask for a missing reason.",
+      "opciones": ["Why", "How", "Which"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[25/40] ___ is your favorite hobby? Q: Choose the correct question word to ask about an activity.",
+      "opciones": ["Who", "What", "Where"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[26/40] ___ bus goes to the city center, number 5 or number 9? Q: Choose the correct question word for a limited selection.",
+      "opciones": ["Which", "What", "How"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[27/40] ___ do you feel today after the doctor's visit? Q: Choose the correct question word to ask about health or mood.",
+      "opciones": ["What", "Where", "How"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[28/40] ___ turn is it to wash the dirty dishes? Q: Choose the correct question word to ask about the responsible owner.",
+      "opciones": ["Who", "Whose", "Which"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[29/40] ___ hours do you sleep every night? Q: Choose the correct question word for countable units of time.",
+      "opciones": ["How much", "How long", "How many"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[30/40] ___ water should we drink daily? Q: Choose the correct question word for an uncountable volume.",
+      "opciones": ["How much", "How many", "How often"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[31/40] ___ told you that secret yesterday? Q: Choose the correct question word for the person who spoke.",
+      "opciones": ["Who", "What", "Which"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[32/40] ___ can I buy a fresh newspaper around here? Q: Choose the correct question word for a retail location.",
+      "opciones": ["When", "Where", "Why"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[33/40] ___ is the best season to visit Japan? Q: Choose the correct question word for a period of time.",
+      "opciones": ["Where", "What", "When"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[34/40] ___ do cats purr when they are happy? Q: Choose the correct question word to ask for a biological explanation.",
+      "opciones": ["Why", "How", "What"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[35/40] ___ happened at the end of the movie? Q: Choose the correct question word to ask about an event.",
+      "opciones": ["Who", "What", "Where"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[36/40] ___ computer is yours, the laptop or the desktop? Q: Choose the correct question word for a specific alternative.",
+      "opciones": ["Which", "Whose", "What"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[37/40] ___ does the internet connection work? Q: Choose the correct question word to ask about a system mechanism.",
+      "opciones": ["When", "Who", "How"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[38/40] ___ car is blocking our private driveway? Q: Choose the correct question word to find the owner of the vehicle.",
+      "opciones": ["Who", "Whose", "Which"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[39/40] ___ correct answers did you get in the test? Q: Choose the correct question word for a countable score.",
+      "opciones": ["How many", "How much", "How often"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[40/40] ___ time do we have left before the train leaves? Q: Choose the correct question word for the uncountable concept of time.",
+      "opciones": ["How many", "How much", "How long"],
+      "correcta": 1
+    }
+  ]
+}
