@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "Don't enter that room; it ...... right now.",
+    "opciones": ["is painted", "is being painted", "paints"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "A new hospital ...... in the city center this month.",
+    "opciones": ["is being built", "is building", "is built"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The match ...... live on TV at this moment.",
+    "opciones": ["is broadcasting", "is broadcast", "is being broadcast"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Account details ...... by our team as we speak.",
+    "opciones": ["are verified", "are being verified", "are verifying"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The files ...... to the server right now.",
+    "opciones": ["are uploading", "are being uploaded", "are uploaded"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "When I arrived, the dinner ...... .",
+    "opciones": ["was being prepared", "was preparing", "prepared"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The patients ...... when the power cut occurred.",
+    "opciones": ["were examined", "were being examined", "were examining"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "I realized my car ...... by a stranger.",
+    "opciones": ["was followed", "was being followed", "followed"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The missing details ...... when the meeting ended.",
+    "opciones": ["were still being discussed", "were still discussing", "still discussed"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The house ...... when the earthquake struck.",
+    "opciones": ["was renovating", "was renovated", "was being renovated"],
+    "correcta": 2
+  }
+]
