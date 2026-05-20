@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "The message ...... hours ago; why hasn't he replied?",
+    "opciones": ["must have been delivered", "must have delivered", "must be delivered"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "He ...... by the police, but I'm not entirely sure.",
+    "opciones": ["might have been arrested", "might have arrested", "might be arrested"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The fire ...... by an electrical fault.",
+    "opciones": ["could have been caused", "could have caused", "could be caused"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The task ...... much earlier. You wasted too much time.",
+    "opciones": ["should have been completed", "should have completed", "should be completed"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The window ...... by the wind; there's no one around.",
+    "opciones": ["must have been broken", "must have broken", "was broken"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "He hates ...... what to do.",
+    "opciones": ["being told", "to tell", "been told"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "I would like ...... to the VIP lounge.",
+    "opciones": ["to be invited", "being invited", "to invite"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The actor avoided ...... by the paparazzi.",
+    "opciones": ["being photographed", "photographing", "to be photographed"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "She remembers ...... to the zoo when she was a child.",
+    "opciones": ["being taken", "taking", "to be taken"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The company expects the new strategy ...... by next month.",
+    "opciones": ["to be implemented", "being implemented", "to implement"],
+    "correcta": 0
+  }
+]
