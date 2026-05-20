@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "[21/40] We had a wonderful dinner ___ my graduation day. Q: Choose the correct preposition for personal special days.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[22/40] Internet speed is much faster ___ the afternoon. Q: Choose the correct preposition for fixed daytime parts.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[23/40] The store closes ___ Easter. Q: Choose the correct preposition for the general holiday period.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[24/40] Our school classes begin ___ August. Q: Choose the correct preposition for calendar months.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[25/40] It gets extremely cold here ___ winter. Q: Choose the correct preposition for seasons.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[26/40] I will meet you outside the cinema ___ Saturday night. Q: Choose the correct preposition for specific day parts.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[27/40] Humans first landed on the moon ___ 1969. Q: Choose the correct preposition for historic calendar years.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[28/40] The bell rings exactly ___ the end of class. Q: Choose the correct preposition for a specific point in time.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[29/40] My parents got married ___ May 4th, 2010. Q: Choose the correct preposition for complete dates.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[30/40] It is difficult to see well ___ sunset. Q: Choose the correct preposition for natural daily events.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  }
+]
