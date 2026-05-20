@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "The results ...... tomorrow morning.",
+    "opciones": ["will be announced", "will announce", "are announced"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The packages ...... to your address next week.",
+    "opciones": ["will send", "will be sent", "are going to send"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Automation means many jobs ...... by robots in the future.",
+    "opciones": ["will be replaced", "will replace", "are replaced"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Don't worry, the project ...... on time.",
+    "opciones": ["will finish", "will be finished", "is finishing"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The winners ...... by a panel of experts.",
+    "opciones": ["will choose", "will be chosen", "will be choosed"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "A new law ...... to protect the environment next month.",
+    "opciones": ["is going to introduce", "is going to be introduced", "will introduce"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Be careful! You ...... if you jump over that fence.",
+    "opciones": ["are going to be caught", "are going to catch", "will catch"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The old building ...... down next Tuesday.",
+    "opciones": ["is going to be torn", "is going to tear", "will tear"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The conference ...... in Paris this year.",
+    "opciones": ["is going to be held", "is going to hold", "holds"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "These files ...... by the IT department tomorrow afternoon.",
+    "opciones": ["are going to be checked", "are going to check", "will check"],
+    "correcta": 0
+  }
+]
