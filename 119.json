@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "[31/40] We did a lot of fun activities ___ the summer. Q: Choose the correct preposition for the summer season.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[32/40] The final exam is ___ Tuesday afternoon. Q: Choose the correct preposition for days combined with times.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[33/40] Many old castle walls were built ___ the Middle Ages. Q: Choose the correct preposition for historical periods.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[34/40] The plane lands safely ___ 7:15 PM. Q: Choose the correct preposition for precise time.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[35/40] I love watching old movies ___ the evening. Q: Choose the correct preposition for time blocks.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[36/40] We are having a big family party ___ New Year's Day. Q: Choose the correct preposition for specific holiday days.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[37/40] He usually drinks hot cocoa ___ bedtime. Q: Choose the correct preposition for specific moments.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[38/40] Jazz music became famous ___ the 1920s. Q: Choose the correct preposition for decade blocks.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[39/40] The museum is closed ___ Thursdays. Q: Choose the correct preposition for weekly days.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[40/40] The sun shines directly overhead ___ lunchtime. Q: Choose the correct preposition for mealtime moments.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  }
+]
