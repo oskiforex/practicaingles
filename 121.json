@@ -1,0 +1,205 @@
+{
+  "exam_title": "CATE 2DO AÑO",
+  "questions": [
+    {
+      "number": 1,
+      "question": "Igor ___ a language course in Brighton last summer.",
+      "options": {
+        "a": "did",
+        "b": "does",
+        "c": "maked"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 2,
+      "question": "Sam wasn't at home on Saturday because his family ___ at his sister's house for her birthday.",
+      "options": {
+        "a": "was",
+        "b": "were",
+        "c": "wasn't"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "number": 3,
+      "question": "My twin brothers ___ born on 25th October, 1989.",
+      "options": {
+        "a": "was",
+        "b": "did",
+        "c": "were"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "number": 4,
+      "question": "When I was a boy, ___ three houses here, but now it's an office block.",
+      "options": {
+        "a": "there was",
+        "b": "there were",
+        "c": "there wasn't"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "number": 5,
+      "question": "Was there a busy road here twenty years ago? No, ___ . It was very quiet.",
+      "options": {
+        "a": "there wasn't",
+        "b": "there weren't",
+        "c": "there didn't"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 6,
+      "question": "We got to the hotel on Saturday and ___ straight to the beach.",
+      "options": {
+        "a": "goed",
+        "b": "went",
+        "c": "gone"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "number": 7,
+      "question": "On Sunday we ___ a taxi to the local market and bought some delicious food.",
+      "options": {
+        "a": "took",
+        "b": "taked",
+        "c": "did take"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 8,
+      "question": "James Lake finished school in 1998 and then he ___ around the world.",
+      "options": {
+        "a": "travel",
+        "b": "traveled",
+        "c": "travelled"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "number": 9,
+      "question": "I started this job four years ago after I ___ from Oxford University.",
+      "options": {
+        "a": "graduate",
+        "b": "graduated",
+        "c": "graduateed"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "number": 10,
+      "question": "Did you leave home when you were eighteen? No, I ___ . I was twenty-four.",
+      "options": {
+        "a": "didn't",
+        "b": "did",
+        "c": "wasn't"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 11,
+      "question": "They didn't go to university, they ___ work in an office right after school.",
+      "options": {
+        "a": "start",
+        "b": "started",
+        "c": "did start"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "number": 12,
+      "question": "A: Where ___ you study? B: I studied at the Seafront School of English.",
+      "options": {
+        "a": "did",
+        "b": "do",
+        "c": "were"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 13,
+      "question": "A: Who ___ your accommodation? B: Someone at the language school organised it.",
+      "options": {
+        "a": "did organise",
+        "b": "organise",
+        "c": "organised"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "number": 14,
+      "question": "How ___ the meals at the hotel during your last holiday?",
+      "options": {
+        "a": "did be",
+        "b": "was",
+        "c": "were"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "number": 15,
+      "question": "Look at Sam! He can't answer the telephone right now because he ___ a shower.",
+      "options": {
+        "a": "is having",
+        "b": "has",
+        "c": "having"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 16,
+      "question": "What's wrong with Catherine and Ali? They aren't watching television, they ___ a book.",
+      "options": {
+        "a": "are reading",
+        "b": "read",
+        "c": "reading"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 17,
+      "question": "Are you free on Saturday morning? No, I'm not. I ___ Anne at ten o'clock.",
+      "options": {
+        "a": "see",
+        "b": "'m seeing",
+        "c": "seeing"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "number": 18,
+      "question": "What ___ on Friday evening? We are going to the cinema. Would you like to come?",
+      "options": {
+        "a": "do you do",
+        "b": "did you do",
+        "c": "are you doing"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "number": 19,
+      "question": "Max is going to the beach ___ Friday morning.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "number": 20,
+      "question": "Don't worry about Jenna, I ___ her this week because she is on holiday.",
+      "options": {
+        "a": "don't see",
+        "b": "'m not seeing",
+        "c": "didn't saw"
+      },
+      "correct_answer": "b"
+    }
+  ]
+}
