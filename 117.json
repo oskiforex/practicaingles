@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "[11/40] The train leaves exactly ___ noon. Q: Choose the correct preposition for specific clock points.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[12/40] Musicians made great music ___ the 1990s. Q: Choose the correct preposition for decades.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[13/40] We got stuck in traffic ___ New Year's Eve. Q: Choose the correct preposition for holiday eves.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[14/40] She started working here ___ July 15th. Q: Choose the correct preposition for specific calendar dates.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[15/40] The stars shine brightly ___ midnight. Q: Choose the correct preposition for 'midnight'.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[16/40] People usually relax ___ the weekend. Q: Choose the correct preposition for standard British/International usage.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[17/40] The concert takes place ___ Friday evening. Q: Choose the correct preposition for day-specific times.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[18/40] We always pray together ___ dinner time. Q: Choose the correct preposition for a specific mealtime period.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[19/40] The birds fly away ___ autumn. Q: Choose the correct preposition for a season of the year.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[20/40] The doctor will see you ___ 4:30. Q: Choose the correct preposition for precise clock times.",
+    "opciones": ["in", "on", "at"],
+    "correcta": 2
+  }
+]
