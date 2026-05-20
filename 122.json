@@ -1,0 +1,106 @@
+{
+  "codigo": 122,
+  "titulo": "CATE 2DO AÑO",
+  "preguntas": [
+    {
+      "pregunta": "[1/20] Igor ___ a language course in Brighton last summer.",
+      "opciones": ["did", "does", "maked"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[2/20] Sam wasn't at home on Saturday because his family ___ at his sister's house for her birthday.",
+      "opciones": ["was", "were", "wasn't"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[3/20] My twin brothers ___ born on 25th October, 1989.",
+      "opciones": ["was", "did", "were"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[4/20] When I was a boy, ___ three houses here, but now it's an office block.",
+      "opciones": ["there was", "there were", "there wasn't"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[5/20] Was there a busy road here twenty years ago? No, ___ . It was very quiet.",
+      "opciones": ["there wasn't", "there weren't", "there didn't"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[6/20] We got to the hotel on Saturday and ___ straight to the beach.",
+      "opciones": ["goed", "went", "gone"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[7/20] On Sunday we ___ a taxi to the local market and bought some delicious food.",
+      "opciones": ["took", "taked", "did take"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[8/20] James Lake finished school in 1998 and then he ___ around the world.",
+      "opciones": ["travel", "traveled", "travelled"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[9/20] I started this job four years ago after I ___ from Oxford University.",
+      "opciones": ["graduate", "graduated", "graduateed"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[10/20] Did you leave home when you were eighteen? No, I ___ . I was twenty-four.",
+      "opciones": ["didn't", "did", "wasn't"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[11/20] They didn't go to university, they ___ work in an office right after school.",
+      "opciones": ["start", "started", "did start"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[12/20] A: Where ___ you study? B: I studied at the Seafront School of English.",
+      "opciones": ["did", "do", "were"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[13/20] A: Who ___ your accommodation? B: Someone at the language school organised it.",
+      "opciones": ["did organise", "organise", "organised"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[14/20] How ___ the meals at the hotel during your last holiday?",
+      "opciones": ["did be", "was", "were"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[15/20] Look at Sam! He can't answer the telephone right now because he ___ a shower.",
+      "opciones": ["is having", "has", "having"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[16/20] What's wrong with Catherine and Ali? They aren't watching television, they ___ a book.",
+      "opciones": ["are reading", "read", "reading"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[17/20] Are you free on Saturday morning? No, I'm not. I ___ Anne at ten o'clock.",
+      "opciones": ["see", "'m seeing", "seeing"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[18/20] What ___ on Friday evening? We are going to the cinema. Would you like to come?",
+      "opciones": ["do you do", "did you do", "are you doing"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[19/20] Max is going to the beach ___ Friday morning.",
+      "opciones": ["on", "in", "at"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[20/20] Don't worry about Jenna, I ___ her this week because she is on holiday.",
+      "opciones": ["don't see", "'m not seeing", "didn't saw"],
+      "correcta": 1
+    }
+  ]
+}
