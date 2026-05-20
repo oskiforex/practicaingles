@@ -1,0 +1,106 @@
+{
+  "codigo": 121,
+  "titulo": "CATE 3ER AÑO",
+  "preguntas": [
+    {
+      "pregunta": "[1/20] Now the new Phantom XR7 is faster than a Zippy but ___ expensive.",
+      "opciones": ["more", "less", "than"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[2/20] I speak good English, but my sister's English is much ___ .",
+      "opciones": ["gooder", "best", "better"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[3/20] South Africa is ___ than Iceland.",
+      "opciones": ["hotter", "more hot", "hottest"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[4/20] Which is the ___ animal on land? The cheetah, of course.",
+      "opciones": ["faster", "fastest", "most fast"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[5/20] Snakes are the ___ dangerous animals in my country.",
+      "opciones": ["more", "most", "least"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[6/20] Waiters ___ wash their hands before they start work. It's a strict rule.",
+      "opciones": ["don't have to", "have to", "mustn't"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[7/20] You ___ wear a uniform in this office. Black trousers and a white shirt are fine.",
+      "opciones": ["don't have to", "mustn't", "must"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[8/20] You ___ be late for work! The boss gets very angry.",
+      "opciones": ["don't have to", "shouldn't to", "mustn't"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[9/20] You work too hard and look tired. You ___ go on holiday.",
+      "opciones": ["should", "shouldn't", "don't should"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[10/20] Those trousers are awful. You ___ buy them.",
+      "opciones": ["should", "shouldn't", "shouldn't to"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[11/20] Don't worry about your exam. I'm sure you ___ get a better mark.",
+      "opciones": ["'ll", "won't", "are going"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[12/20] In the future, do you think pills ___ replace food entirely?",
+      "opciones": ["won't to", "will", "don't think"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[13/20] A man ___ down the street when he suddenly saw a piece of paper on the floor.",
+      "opciones": ["walked", "was walking", "is walking"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[14/20] It was a beautiful day. The sun ___ and the birds were singing.",
+      "opciones": ["shone", "was shining", "shines"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[15/20] What ___ at 2 a.m. this morning? The music was really loud!",
+      "opciones": ["did you do", "were you doing", "you were doing"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[16/20] As I arrived at the station, the last passengers ___ on the train.",
+      "opciones": ["were getting", "got", "getted"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[17/20] ___ you ever been to Paris? Yes, I went last year with Maddy.",
+      "opciones": ["Did", "Have", "Were"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "[18/20] This is the first time I ___ a live concert. It's so exciting!",
+      "opciones": ["'ve seen", "saw", "see"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[19/20] I ___ skied before in my life. This is terrifying!",
+      "opciones": ["haven't never", "ever", "'ve never"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "[20/20] Have you tried the new Korean restaurant? Yes, we ___ there last weekend.",
+      "opciones": ["'ve been", "went", "did go"],
+      "correcta": 1
+    }
+  ]
+}
