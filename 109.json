@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "[11/20] I love my new lifestyle because I can relax more, so I am much ___ than before.",
+    "opciones": ["happier", "happiest", "more happy"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[12/20] Shanghai in China is the ___ growing city in the world according to recent statistics.",
+    "opciones": ["faster", "fastest", "more fast"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[13/20] Since I started exercising and eating ___ than before, I have gained a lot of energy.",
+    "opciones": ["healthier", "healthiest", "more healthily"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[14/20] The Vatican City is probably the world's ___ capital city, with just under 1000 people living inside.",
+    "opciones": ["smaller", "smallest", "most small"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[15/20] Prag is definitely ___ than any of the other European cities I have visited so far.",
+    "opciones": ["beautifuler", "more beautiful", "most beautiful"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[16/20] The train probably gets you to London ___ than going by car.",
+    "opciones": ["more quickly", "most quickly", "quickest"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[17/20] The second night at the resort was even ___ than the first night because the air-conditioning broke down.",
+    "opciones": ["worse", "worst", "badder"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[18/20] This was not the ___ hotel I've ever stayed in, as it was located on one of the busiest streets.",
+    "opciones": ["more comfortable", "most comfortable", "comfortableist"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[19/20] Going by train is definitely ___ than driving through the heavy city traffic.",
+    "opciones": ["fast", "faster", "fastest"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[20/20] The cost of living in Asuncion is low, making it one of the ___ capital cities in the world.",
+    "opciones": ["cheaper", "cheapest", "less expensive"],
+    "correcta": 1
+  }
+]
