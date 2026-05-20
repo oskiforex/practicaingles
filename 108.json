@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "[1/20] Try our five-day starter course and your memory will immediately be ___ efficient than before.",
+    "opciones": ["more", "most", "the more"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[2/20] Zurich has been voted the ___ city in the world to live in.",
+    "opciones": ["good", "better", "best"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "[3/20] Do you find that, as you get older, your memory is getting ___ reliable than it used to be?",
+    "opciones": ["less", "least", "the least"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[4/20] Zurich's beautiful parks and open areas make it one of the ___ cities in the world.",
+    "opciones": ["greener", "greenest", "most green"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[5/20] With each memory training exercise, you will find that you can think ___ clearly.",
+    "opciones": ["clearer", "more clearly", "most clearly"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[6/20] Thanks to its efficient transport system, Zurich is one of the cities where you can travel ___ comfortably.",
+    "opciones": ["more comfortably", "most comfortably", "comfortably"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[7/20] I hate my current job because I am working ___ hours than ever.",
+    "opciones": ["longer", "longest", "more long"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[8/20] With the third ___ crime rate, Zurich is certainly one of the safest places.",
+    "opciones": ["lower", "lowest", "more low"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "[9/20] I am ___ stressed now than I have ever been before because of the short deadlines.",
+    "opciones": ["more", "most", "the most"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "[10/20] Tokyo is actually the ___ city in the world, with a population of over thirty-five million people.",
+    "opciones": ["larger", "largest", "most large"],
+    "correcta": 1
+  }
+]
