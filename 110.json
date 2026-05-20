@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "The office ...... every evening by the cleaning staff.",
+    "opciones": ["cleans", "is cleaned", "is cleaning"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Thousands of emails ...... around the world every second.",
+    "opciones": ["are sent", "are send", "sent"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "This book ...... by millions of people globally.",
+    "opciones": ["is readed", "is read", "reads"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Grapes ...... in this region to make wine.",
+    "opciones": ["are grown", "grow", "are grew"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Spanish ...... as a first language in many countries.",
+    "opciones": ["is spoken", "speaks", "is spoke"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The exhibition ...... by the mayor last night.",
+    "opciones": ["was opened", "opened", "was open"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The letters ...... two days ago.",
+    "opciones": ["were posted", "was posted", "posted"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "America ...... by Columbus in 1492.",
+    "opciones": ["was discovered", "discovered", "is discovered"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The window ...... during the storm yesterday.",
+    "opciones": ["broke", "was broken", "was broke"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Our cars ...... in Germany last year.",
+    "opciones": ["were manufactured", "manufactured", "was manufactured"],
+    "correcta": 0
+  }
+]
