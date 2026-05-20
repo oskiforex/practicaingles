@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "This form ...... in block capitals.",
+    "opciones": ["must fill", "must be filled", "must been filled"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The document ...... before Friday.",
+    "opciones": ["should be submitted", "should submit", "should being submitted"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Luggage ...... unattended at the airport.",
+    "opciones": ["must not leave", "must not be left", "must not being left"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The rules ...... by all participants.",
+    "opciones": ["have to be followed", "have to follow", "must to be followed"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "This problem ...... easily if you listen.",
+    "opciones": ["can be solved", "can solve", "can been solved"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The meeting is secret; it ...... to anyone.",
+    "opciones": ["ought not to be mentioned", "ought not mention", "shouldn't mention"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Children ...... from dangerous situations.",
+    "opciones": ["need to be protected", "need to protect", "need protect"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The package ...... by express delivery.",
+    "opciones": ["may be sent", "may send", "may been sent"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Your password ...... to ensure safety.",
+    "opciones": ["ought to be changed", "ought to change", "should change"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Nothing ...... without the manager's approval.",
+    "opciones": ["can be done", "can do", "can done"],
+    "correcta": 0
+  }
+]
