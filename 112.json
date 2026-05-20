@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "Great news! The contract ...... by the CEO.",
+    "opciones": ["has been signed", "has signed", "was signed"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "All the tickets for the concert ...... already.",
+    "opciones": ["have sold", "have been sold", "were sold"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The problem ...... yet.",
+    "opciones": ["hasn't been solved", "hasn't solved", "isn't solve"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Several new features ...... to the app recently.",
+    "opciones": ["have added", "have been added", "added"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "...... your room ...... yet?",
+    "opciones": ["Has...been cleaned", "Have...cleaned", "Is...cleaned"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The thief escaped because the gate ...... open.",
+    "opciones": ["had left", "had been left", "was left"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "The report ...... before the deadline passed.",
+    "opciones": ["had completed", "had been completed", "was complete"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "They discovered that the jewels ...... .",
+    "opciones": ["had been stolen", "had stolen", "were steal"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "The fire was put out after the building ...... severely.",
+    "opciones": ["had damaged", "had been damaged", "was damaging"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "He failed because the instructions ...... properly.",
+    "opciones": ["hadn't been explained", "hadn't explained", "weren't explain"],
+    "correcta": 0
+  }
+]
