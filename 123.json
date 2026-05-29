@@ -1,0 +1,206 @@
+{
+  "codigo": 123,
+  "titulo": "CATE 2DO AÑO - MODALS",
+  "preguntas": [
+    {
+      "pregunta": "[1/40] You ___ park here. It's forbidden and you will get a fine.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[2/40] If you want to get good marks, you ___ study more often.",
+      "opciones": ["should", "mustn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[3/40] Tom ___ work on Sundays, so he usually stays in bed until late.",
+      "opciones": ["doesn't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[4/40] She ___ complete the project today; the deadline is next week, so there is no rush.",
+      "opciones": ["doesn't have to", "mustn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[5/40] My sister ___ wear a uniform at her new school. It's a strict rule.",
+      "opciones": ["has to", "shouldn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[6/40] You ___ shout in the library. Everyone is trying to concentrate.",
+      "opciones": ["mustn't", "haven't to", "should"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[7/40] I think you ___ eat so much fast food. It's really unhealthy.",
+      "opciones": ["shouldn't", "mustn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[8/40] We ___ buy a ticket before boarding the train. It's the law.",
+      "opciones": ["have to", "has to", "shouldn't"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[9/40] It's a great film. You ___ definitely go and see it at the cinema.",
+      "opciones": ["should", "mustn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[10/40] You ___ touch that wire! It's extremely dangerous.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[11/40] Employees ___ wash their hands after using the restroom.",
+      "opciones": ["must", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[12/40] We have plenty of food at home, so we ___ buy anything at the supermarket.",
+      "opciones": ["don't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[13/40] He ___ take a map with him if he doesn't know the city well.",
+      "opciones": ["should", "mustn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[14/40] Drivers ___ stop when the traffic light turns red.",
+      "opciones": ["must", "shouldn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[15/40] You ___ cheat during exams. If the teacher sees you, you'll fail.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[16/40] She has a terrible toothache. She ___ see a dentist as soon as possible.",
+      "opciones": ["should", "mustn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[17/40] We ___ bring our own instruments; the music academy provides them.",
+      "opciones": ["don't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[18/40] Children ___ play with matches. They can start a fire.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[19/40] I ___ get up early tomorrow because it's a holiday.",
+      "opciones": ["don't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[20/40] To travel abroad, a person usually ___ carry a valid passport.",
+      "opciones": ["has to", "shouldn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[21/40] You ___ drink that water. It isn't safe for consumption.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[22/40] If you feel sick, you ___ stay at home and rest.",
+      "opciones": ["should", "mustn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[23/40] Mechanics ___ wear protective boots in the workshop for safety.",
+      "opciones": ["have to", "shouldn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[24/40] My mother ___ cook tonight because we are ordering a pizza.",
+      "opciones": ["doesn't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[25/40] You ___ leave your bag unattended at the airport. It's against regulations.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[26/40] I think he ___ apologize for what he said. It was very rude.",
+      "opciones": ["should", "mustn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[27/40] Students ___ pay for the museum entry; it's free for schools.",
+      "opciones": ["don't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[28/40] You ___ look both ways before crossing the street.",
+      "opciones": ["should", "mustn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[29/40] A doctor ___ treat all patients with equal care.",
+      "opciones": ["has to", "shouldn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[30/40] You ___ speak during the test. It's strictly prohibited.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[31/40] We ___ run out of gas in the middle of the highway; let's stop at the next station.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[32/40] You ___ buy that expensive jacket if you don't have enough savings.",
+      "opciones": ["shouldn't", "mustn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[33/40] Lucas ___ do his homework before he can play video games. His parents are very strict.",
+      "opciones": ["has to", "shouldn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[34/40] The museum is free on Wednesdays, so we ___ pay for tickets.",
+      "opciones": ["don't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[35/40] You ___ forget to lock the door when you leave the house.",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[36/40] I think she ___ talk to her teacher about her difficulties with maths.",
+      "opciones": ["should", "mustn't", "has to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[37/40] In this office, we ___ dress formally. Jeans and t-shirts are perfectly fine.",
+      "opciones": ["don't have to", "mustn't", "hasn't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[38/40] An athlete ___ train very hard to compete at the Olympic level.",
+      "opciones": ["has to", "shouldn't", "have to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[39/40] You ___ tell anyone my secret. Promise me!",
+      "opciones": ["mustn't", "shouldn't", "haven't to"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "[40/40] He ___ drive so fast on this narrow road. It's reckless.",
+      "opciones": ["shouldn't", "mustn't", "haven't to"],
+      "correcta": 0
+    }
+  ]
+}
